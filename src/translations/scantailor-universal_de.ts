@@ -232,7 +232,7 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../core/filters/page_layout/ui/alignmentwidget.ui" line="468"/>
         <source>Reset advanced alignment options</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterte Ausrichtungsoptionen zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -245,7 +245,7 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../app/ui/BatchProcessingLowerPanel.ui" line="36"/>
         <source>Beep when finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Signalton nach Fertigstellung</translation>
     </message>
 </context>
 <context>
@@ -253,7 +253,7 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../core/filters/output/ColorPickupInteraction.cpp" line="47"/>
         <source>Click on an area to pick up its color, or ESC to cancel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klicken Sie auf einen Bereich, um dessen Farbe zu übernehmen, oder brechen Sie mit ESC ab.</translation>
     </message>
 </context>
 <context>
@@ -261,22 +261,22 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../core/DebugImageView.cpp" line="113"/>
         <source>Save image as...</source>
-        <translation type="unfinished"></translation>
+        <translation type="Bild speichern unter..."></translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="115"/>
         <source>Save debug image</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug-Image speichern</translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="116"/>
         <source>PNG images</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG Bilder</translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="127"/>
         <source>File saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei speichern</translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="128"/>
