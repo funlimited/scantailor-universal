@@ -11,7 +11,7 @@
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="27"/>
         <source>About</source>
-        <translation type="unfinished"><Über/translation>
+        <translation><Über/translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="33"/>
@@ -56,17 +56,17 @@
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="221"/>
         <source>Notable ST contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wichtige ST-Mitwirkende:</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="228"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;Robert B. - First generation dewarping algorithm&lt;br&gt;Andrey Bergman - System load adjustment&lt;br&gt;U235 - Picture auto-detection algorithm&lt;br&gt;Petr Kovář - Command line interface&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;Robert B. - Die erste Generation des Dewarping-Algorithmus&lt;br&gt;Andrey Bergman - Regelung der Systemlast&lt;br&gt;U235 - Algorithmus zur automatischen Bilderkennung&lt;br&gt;Petr Kovář - Kommandozeilen-Schnittstelle&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="241"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Übersetzer</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="248"/>
@@ -282,23 +282,24 @@ Russian - Alexander Trufanov</translation>
         <location filename="../core/DebugImageView.cpp" line="128"/>
         <source>%1 already exists.
 Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 existiert bereits.
+Möchten Sie es ersetzen?</translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="135"/>
         <location filename="../core/DebugImageView.cpp" line="141"/>
         <source>File saving error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Speichern der Datei</translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="135"/>
         <source>Can&apos;t remove file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei %1 kann nicht entfernt werden</translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="141"/>
         <source>Can&apos;t copy file %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei %1 kann nicht nach %2 kopiert werden</translation>
     </message>
 </context>
 <context>
@@ -306,22 +307,22 @@ Do you want to replace it?</source>
     <message>
         <location filename="../core/filters/deskew/ui/DeskewOptionsWidget.ui" line="20"/>
         <source>Deskew</source>
-        <translation type="unfinished"></translation>
+        <translation>Geradeziehen</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/ui/DeskewOptionsWidget.ui" line="41"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/ui/DeskewOptionsWidget.ui" line="57"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/ui/DeskewOptionsWidget.ui" line="140"/>
         <source>Apply To...</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden auf...</translation>
     </message>
 </context>
 <context>
@@ -329,7 +330,7 @@ Do you want to replace it?</source>
     <message>
         <location filename="../core/interaction/DragHandler.cpp" line="47"/>
         <source>Unrestricted dragging is possible by holding down the %1 key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbegrenztes Ziehen ist durch Halten der Taste %1 möglich.</translation>
     </message>
 </context>
 <context>
@@ -338,7 +339,7 @@ Do you want to replace it?</source>
         <location filename="../app/ui/ExportDialog.ui" line="14"/>
         <location filename="../app/ui/ExportDialog.ui" line="314"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportieren</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="30"/>
@@ -348,67 +349,67 @@ Do you want to replace it?</source>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="58"/>
         <source>Only black (#000000) and white (#ffffff) pixels of the image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur schwarze (#000000) und weiße (#ffffff) Pixel des Bildes</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="61"/>
         <source>Foreground (b/w text and graphics)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vordergrund (s/w Text und Grafik)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="36"/>
         <source>Data to export:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu exportierende Daten:</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="48"/>
         <source>Image as it is in ./out subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild wie es im Unterordner ./out liegt</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="51"/>
         <source>Whole image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ganzes Bild</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="87"/>
         <source>Automask (b/w mask for auto layer)</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaske (s/w-Maske für automatische Ebene)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="97"/>
         <source>Mask (b/w mask for background)</source>
-        <translation type="unfinished"></translation>
+        <translation>Maske (s/w-Maske für Hintergrund)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="107"/>
         <source>Coordinates of zones</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinaten der Bereiche</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="117"/>
         <source>Default export folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard-Exportverzeichnis</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="130"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgabeverzeichnis</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="157"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="184"/>
         <source>Export selected pages only</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur ausgewählte Seiten exportieren</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="194"/>
         <source>Rare options</source>
-        <translation type="unfinished"></translation>
+        <translation>Seltene Optionen</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="200"/>
