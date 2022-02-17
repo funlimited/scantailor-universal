@@ -688,68 +688,68 @@ Zahlen, die von &apos;-&apos; oder &apos;:&apos; gefolgt werden, werden als Begi
     <message>
         <location filename="../app/MainWindow.cpp" line="3479"/>
         <source>Input page numbers:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitenzahlen eingeben:</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3485"/>
         <source>Pages to be selected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu wählende Seiten: %1</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1328"/>
         <source>Insert before...</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen vor...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1288"/>
         <source>Open source with...</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Quelle mit...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="922"/>
         <source>Go to page...</source>
-        <translation type="unfinished"></translation>
+        <translation>Springe zu Seite...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="927"/>
         <source>Select pages...</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten wählen...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1331"/>
         <source>Insert after...</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen nach...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1334"/>
         <source>Insert empty page</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Seite einfügen</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1340"/>
         <source>Rename result filename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ergebnisdateiname umbenennen...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1346"/>
         <source>Remove from project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus Projekt entfernen...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1384"/>
         <source>Insert here...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier einfügen...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1799"/>
         <location filename="../app/MainWindow.cpp" line="1874"/>
         <source>Scan Tailor Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Scan Tailor Projekte</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1873"/>
         <source>Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt öffnen</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1892"/>
@@ -759,248 +759,252 @@ Zahlen, die von &apos;-&apos; oder &apos;:&apos; gefolgt werden, werden als Begi
         <location filename="../app/MainWindow.cpp" line="2451"/>
         <location filename="../app/MainWindow.cpp" line="2486"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1893"/>
         <source>Unable to open the project file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Projektdatei kann nicht geöffnet werden.</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1903"/>
         <source>The project file is broken.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Projektdatei ist defekt.</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1979"/>
         <location filename="../app/MainWindow.cpp" line="2171"/>
         <source>Batch processing is in the progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Stapelverarbeitung ist in Arbeit.</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1985"/>
         <location filename="../app/MainWindow.cpp" line="2176"/>
         <source>No project is loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es ist kein Projekt geladen.</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2191"/>
         <source>build on </source>
-        <translation type="unfinished"></translation>
+        <translation>erstellt auf </translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2336"/>
         <source>Output is not yet possible, as the final size of pages is not yet known.
 To determine it, run batch processing at &quot;Select Content&quot; or &quot;Page Layout&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Ausgabe ist noch nicht möglich, da die endgültige Größe der Seiten noch nicht bekannt ist.
+Um sie zu ermitteln, führen Sie die Stapelverarbeitung unter &quot;Inhalt auswählen&quot; oder &quot;Seitenlayout&quot; aus.</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2371"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbenannt</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2378"/>
         <source>%2 - Scan Tailor &quot;Universal&quot; %3 [%1bit]</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 - Scan Tailor &quot;Universal&quot; %3 [%1bit]</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2382"/>
         <source>%1% - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% - %2</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2452"/>
         <location filename="../app/MainWindow.cpp" line="2487"/>
         <source>Error saving the project file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Speichern der Projektdatei!</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2481"/>
         <source>Saving project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt speichern...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2539"/>
         <source>Files to insert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einzufügende Dateien</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2547"/>
         <source>Images not in project (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder nicht im Projekt (%1)</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2594"/>
         <source>Skip failed files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlerhafte Dateien überspringen</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2698"/>
         <source>Overwrite default file name for resulting image</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard-Dateinamen für das erzeugte Bild überschreiben</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2700"/>
         <source>Here you may overwrite default resulting image file name
 that will be generated for this page. It may be
 helpful to keep the right alphabetical order of files in out subfolder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier können Sie den Standardnamen der resultierenden Bilddatei überschreiben der für diese Seite erzeugt wird, überschreiben. Es kann sinnvoll sein, die richtige alphabetische Reihenfolge der Dateien im Unterordner beizubehalten.</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2717"/>
         <source>File %1 already exists in out subfolder.
 Would you like to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei %1 existiert bereits im Ausgabe-Unterordner.
+Möchten Sie sie ersetzen?</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2719"/>
         <source>Can&apos;t remove file %1!
 Cancelling...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Datei %1 nicht entfernen!
+Wird abgebrochen...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2727"/>
         <source>Can&apos;t rename file %1!
 Cancelling...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Datei %1 nicht umbenennen!
+Wird abgebrochen...</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="2749"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entfernen</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3211"/>
         <source>p. %1</source>
-        <translation type="unfinished"></translation>
+        <translation">S. %1</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3287"/>
         <source>%1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="877"/>
         <location filename="../app/MainWindow.cpp" line="3327"/>
         <source>Insert before</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen vor</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="892"/>
         <location filename="../app/MainWindow.cpp" line="3337"/>
         <source>Insert after</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen nach</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3354"/>
         <source>Use %1, %2, %3 (or %4), %5 (or %6) to navigate between pages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie %1, %2, %3 (oder %4), %5 (oder %6), um zwischen den Seiten zu navigieren.</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="20"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptfenster</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="65"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Werkzeuge</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="75"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Datei</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="89"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hilfe</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="96"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bearbeiten</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="132"/>
         <source>Inverse page order</source>
-        <translation type="unfinished"></translation>
+        <translation>Umgekehrte Seitenfolge</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="157"/>
         <source>Keep current page in view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Seite in der Ansicht halten.</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="177"/>
         <source>Keep selection key pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahltaste gedrückt halten</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="180"/>
         <source>Simulate press of the modifier key for fast page selection (Ctrl+CapsLock)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simuliert das Drücken der Umschalttaste zur schnellen Seitenauswahl (Strg+CapsLock)</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="190"/>
         <source>Ctrl+CapsLock</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+CapsLock</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="245"/>
         <source>Reset sorting to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortierung auf Standard zurücksetzen</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="428"/>
         <source>Mouse position</source>
-        <translation type="unfinished"></translation>
+        <translation>Mausposition</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="431"/>
         <source>Mouse position relative to page</source>
-        <translation type="unfinished"></translation>
+        <translation>Mausposition relativ zur Seite</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="454"/>
         <source>Physical size</source>
-        <translation type="unfinished"></translation>
+        <translation>Physische Größe</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="457"/>
         <source>Physical size of image. (Click to change units of measurement)</source>
-        <translation type="unfinished"></translation>
+        <translation>Physische Größe des Bildes. (Klicken Sie hier, um die Maßeinheiten zu ändern)</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="483"/>
         <source>Page number</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitennummer</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="486"/>
         <source>Position of the selected page in current order</source>
-        <translation type="unfinished"></translation>
+        <translation>Position der ausgewählten Seite in der aktuellen Reihenfolge</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="525"/>
         <source>&amp;Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Projekt speichern</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="533"/>
         <source>Save Project &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt speichern &amp;als...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="536"/>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strg+Shift+S</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="575"/>
         <source>&amp;New Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neues Projekt...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="583"/>
