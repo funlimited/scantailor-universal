@@ -6,7 +6,7 @@
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="14"/>
         <source>About Scan Tailor &quot;Universal&quot;</source>
-        <translation type="unfinished">Über Scan Tailor</translation>
+        <translation>Über Scan Tailor</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="27"/>
@@ -414,84 +414,85 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="200"/>
         <source>Save images as multipage tiff file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder als mehrseitige Tiff-Datei speichern</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="207"/>
         <source>Generate blank background subscans</source>
-        <translation type="unfinished"></translation>
+        <translation>Leere Hintergrund-Teilscans generieren</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="214"/>
         <source>For better compatibility with DjVu Imager</source>
-        <translation type="unfinished"></translation>
+        <translation>Für bessere Kompatibilität mit DjVu Imager</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="217"/>
         <source>Use .sep.tif extension instead of .tif for background subscans</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie die Erweiterung .sep.tif anstelle von .tif für Hintergrund-Teilscans</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="235"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This will have effect if only Export Foreground is checked.&lt;/p&gt;&lt;p&gt;Foreground is a b/w image with a black content of resulting&lt;/p&gt;&lt;p&gt;image drown on white. With this mode on every black pixel will&lt;/p&gt;&lt;p&gt;be replaced with pixel on the same position taken from original&lt;/p&gt;&lt;p&gt;image. This may let you get colored or grayscale text instead of&lt;/p&gt;&lt;p&gt;binarized black one. Require image reprocessing so may be&lt;/p&gt;&lt;p&gt;time consuming.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich nur aus, wenn "Vordergrund exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Der Vordergrund ist ein s/w-Bild mit einem schwarzen Inhalt des resultierenden&lt;/p&gt;&lt;p&gt;Bildes, das auf Weiß gezeichnet wird. In diesem Modus wird jedes schwarze Pixel durch ein Pixel an der gleichen Stelle aus dem Originalbild ersetzt. Dadurch erhalten Sie möglicherweise farbigen oder in Graustufen gehaltenen Text anstelle von&lt;/p&gt;&lt;p&gt; binarisiertem schwarzem Text. Erfordert eine erneute Bildbearbeitung, kann also&lt;/p&gt;&lt;p&gt;zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="74"/>
         <source>Background (color and grayscale images)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund (Farb- und Graustufenbilder)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="71"/>
         <source>Only non black (&gt; #000000) pixels of the image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur nicht-schwarze (&gt; #000000) Pixel des Bildes</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="84"/>
         <source>Automask could be found in ./out/cache/automask and contains autodetected mask before any zones are applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Automask kann in ./out/cache/automask gefunden werden und enthält automatisch erkannte Masken, bevor Zonen angewendet werden</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="94"/>
         <source>Binarized and inverted background</source>
-        <translation type="unfinished"></translation>
+        <translation>Binarisierter und invertierter Hintergrund</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="104"/>
         <source>Some pages might have user defined zones to fill with color or indicate some content. Their coordinates may be exported to tsv text file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Einige Seiten können benutzerdefinierte Zonen haben, die mit Farbe gefüllt werden oder bestimmte Inhalte anzeigen. Ihre Koordinaten können in eine tsv-Textdatei exportiert werden.</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="224"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This will have effect if only Export Whole image is checked.&lt;/p&gt;&lt;p&gt;The exported image will be drawn with colors of original image.&lt;/p&gt;&lt;p&gt;Only fill zones will be applied. In other words the exported&lt;/p&gt;&lt;p&gt;image will be a part of original image after split, rotation,&lt;/p&gt;&lt;p&gt;deskew, applying margins and fill zones. This require image&lt;/p&gt;&lt;p&gt;reprocessing so it may be time consuming.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich aus, wenn "nur ganzes Bild exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Das exportierte Bild wird mit den Farben des Originalbildes gezeichnet.&lt;/p&gt;&lt;p&gt;Es werden nur Füllbereiche angewendet. Mit anderen Worten, das exportierte&lt;/p&gt;&lt;p&gt;Bild wird nach Teilung, Drehung,&lt;/p&gt;&lt;p&gt;Geraderücken, Anwendung von Rändern und Füllzonen ein Teil des Originalbildes sein. Dies erfordert eine Bild&lt;p&gt;&lt;p&gt;Neubearbeitung, kann also zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="227"/>
         <source>Skip processing at Output stage (except for Fill Zones) 
 for exported image (lengthy)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitung in der Ausgabephase überspringen (außer für Füllzonen) für das exportierte Bild (langwierig)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="238"/>
         <source>Skip processing at Output stage (except for Fill Zones) 
 for content in foreground subscans (lengthy)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitung in der Ausgabephase überspringen (außer bei Fill Zones) 
+für Inhalte in Vordergrund-Subscans (langwierig)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="288"/>
         <source>Reset export settings to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteinstellungen auf Standardwerte zurücksetzen</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="291"/>
         <source>Restore Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardwerte wiederherstellen</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="321"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
 </context>
 <context>
@@ -499,12 +500,12 @@ for content in foreground subscans (lengthy)</source>
     <message>
         <location filename="../app/settings/fancylineedit.cpp" line="343"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="../app/settings/fancylineedit.cpp" line="344"/>
         <source>Clear text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text löschen</translation>
     </message>
 </context>
 <context>
@@ -512,53 +513,53 @@ for content in foreground subscans (lengthy)</source>
     <message>
         <location filename="../app/ui/FixDpiDialog.ui" line="14"/>
         <source>Fix DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI korrigieren</translation>
     </message>
     <message>
         <location filename="../app/ui/FixDpiDialog.ui" line="70"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
     <message>
         <location filename="../app/ui/FixDpiDialog.ui" line="91"/>
         <source>x</source>
-        <translation type="unfinished"></translation>
+        <translation>x</translation>
     </message>
     <message>
         <location filename="../app/ui/FixDpiDialog.ui" line="114"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="265"/>
         <source>Need Fixing</source>
-        <translation type="unfinished"></translation>
+        <translation>Reparatur erforderlich</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="266"/>
         <location filename="../app/FixDpiDialog.cpp" line="727"/>
         <source>All Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Seiten</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="500"/>
         <source>DPI is too large and most likely wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI ist zu groß und höchstwahrscheinlich falsch.</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="503"/>
         <source>DPI is too small. Even if it&apos;s correct, you are not going to get acceptable results with it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der DPI-Wert ist zu niedrig. Selbst wenn er korrekt ist, werden Sie damit keine akzeptablen Ergebnisse erzielen.</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="506"/>
         <source>DPI is too small for this pixel size. Such combination would probably lead to out of memory errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>DPI ist zu klein für diese Pixelgröße. Eine solche Kombination würde wahrscheinlich zu Problemen aufgrund von Speicherplatzmangel führen.</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="753"/>
         <source>%1 (page %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Seite %2)</translation>
     </message>
 </context>
 <context>
@@ -566,12 +567,12 @@ for content in foreground subscans (lengthy)</source>
     <message>
         <location filename="../core/ImageViewBase.cpp" line="225"/>
         <source>Use the mouse wheel or %1 to zoom. When zoomed, dragging is possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwenden Sie das Mausrad oder %1 zum Zoomen. Im gezoomten Zustand ist das Ziehen möglich.</translation>
     </message>
     <message>
         <location filename="../core/ImageViewBase.cpp" line="230"/>
         <source>Hold %1 to display original page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Halten Sie %1 gedrückt, um die Originalseite anzuzeigen.</translation>
     </message>
 </context>
 <context>
@@ -579,7 +580,7 @@ for content in foreground subscans (lengthy)</source>
     <message>
         <location filename="../core/interaction/InteractiveXSpline.cpp" line="52"/>
         <source>Click to create a new control point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken, um einen neuen Kontrollpunkt zu erstellen.</translation>
     </message>
     <message>
         <location filename="../core/interaction/InteractiveXSpline.cpp" line="78"/>
