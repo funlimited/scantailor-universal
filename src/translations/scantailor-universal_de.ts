@@ -6,17 +6,17 @@
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="14"/>
         <source>About Scan Tailor &quot;Universal&quot;</source>
-        <translation>Über Scan Tailor</translation>
+        <translation>&Uuml;ber Scan Tailor</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="27"/>
         <source>About</source>
-        <translation><Über/translation>
+        <translation><&Uuml;ber/translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="33"/>
         <source>Scan Tailor is an interactive post-processing tool for scanned pages. It performs operations such as page splitting, skew correction, adding/removing margins, and others. You give it raw scans, and you get pages ready to be printed or assembled into a PDF or DJVU file.  Scanning and optical character recognition is out of scope of this project.</source>
-        <translation>Scan Tailor ist ein interaktives Werkzeug für die Nachbearbeitung von gescannten Seiten. Es führt Operationen wie Seitenteilung, Schräglagenkorrektur, Hinzufügen/Entfernen von Rändern und andere durch. Sie geben ihm die gescannten Rohdaten und erhalten Seiten, die gedruckt oder zu einer PDF- oder DJVU-Datei zusammengestellt werden können.  Das Scannen und die optische Zeichenerkennung sind nicht Teil dieses Projekts.</translation>
+        <translation>Scan Tailor ist ein interaktives Werkzeug f&uuml;r die Nachbearbeitung von gescannten Seiten. Es f&uuml;hrt Operationen wie Seitenteilung, Schräglagenkorrektur, Hinzuf&uuml;gen/Entfernen von Rändern und andere durch. Sie geben ihm die gescannten Rohdaten und erhalten Seiten, die gedruckt oder zu einer PDF- oder DJVU-Datei zusammengestellt werden können.  Das Scannen und die optische Zeichenerkennung sind nicht Teil dieses Projekts.</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="116"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="143"/>
         <source>Lead Developer of original version</source>
-        <translation type="unfinished">Hauptentwickler der ursprünglichen Version</translation>
+        <translation type="unfinished">Hauptentwickler der urspr&uuml;nglichen Version</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="150"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="241"/>
         <source>Translators</source>
-        <translation>Die Übersetzer</translation>
+        <translation>Die &Uuml;bersetzer</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="248"/>
@@ -227,12 +227,12 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../core/filters/page_layout/ui/alignmentwidget.ui" line="465"/>
         <source>Reset advanced alignment</source>
-        <translation>Erweiterte Ausrichtung zurücksetzen</translation>
+        <translation>Erweiterte Ausrichtung zur&uuml;cksetzen</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/alignmentwidget.ui" line="468"/>
         <source>Reset advanced alignment options</source>
-        <translation>Erweiterte Ausrichtungsoptionen zurücksetzen</translation>
+        <translation>Erweiterte Ausrichtungsoptionen zur&uuml;cksetzen</translation>
     </message>
 </context>
 <context>
@@ -253,7 +253,7 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../core/filters/output/ColorPickupInteraction.cpp" line="47"/>
         <source>Click on an area to pick up its color, or ESC to cancel.</source>
-        <translation type="unfinished">Klicken Sie auf einen Bereich, um dessen Farbe zu übernehmen, oder brechen Sie mit ESC ab.</translation>
+        <translation type="unfinished">Klicken Sie auf einen Bereich, um dessen Farbe zu &uuml;bernehmen, oder brechen Sie mit ESC ab.</translation>
     </message>
 </context>
 <context>
@@ -374,12 +374,12 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="87"/>
         <source>Automask (b/w mask for auto layer)</source>
-        <translation>Automaske (s/w-Maske für automatische Ebene)</translation>
+        <translation>Automaske (s/w-Maske f&uuml;r automatische Ebene)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="97"/>
         <source>Mask (b/w mask for background)</source>
-        <translation>Maske (s/w-Maske für Hintergrund)</translation>
+        <translation>Maske (s/w-Maske f&uuml;r Hintergrund)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="107"/>
@@ -424,12 +424,12 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="214"/>
         <source>For better compatibility with DjVu Imager</source>
-        <translation>Für bessere Kompatibilität mit DjVu Imager</translation>
+        <translation>F&uuml;r bessere Kompatibilität mit DjVu Imager</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="217"/>
         <source>Use .sep.tif extension instead of .tif for background subscans</source>
-        <translation>Verwenden Sie die Erweiterung .sep.tif anstelle von .tif für Hintergrund-Teilscans</translation>
+        <translation>Verwenden Sie die Erweiterung .sep.tif anstelle von .tif f&uuml;r Hintergrund-Teilscans</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="235"/>
@@ -459,30 +459,30 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="104"/>
         <source>Some pages might have user defined zones to fill with color or indicate some content. Their coordinates may be exported to tsv text file.</source>
-        <translation>Einige Seiten können benutzerdefinierte Zonen haben, die mit Farbe gefüllt werden oder bestimmte Inhalte anzeigen. Ihre Koordinaten können in eine tsv-Textdatei exportiert werden.</translation>
+        <translation>Einige Seiten können benutzerdefinierte Zonen haben, die mit Farbe gef&uuml;llt werden oder bestimmte Inhalte anzeigen. Ihre Koordinaten können in eine tsv-Textdatei exportiert werden.</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="224"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This will have effect if only Export Whole image is checked.&lt;/p&gt;&lt;p&gt;The exported image will be drawn with colors of original image.&lt;/p&gt;&lt;p&gt;Only fill zones will be applied. In other words the exported&lt;/p&gt;&lt;p&gt;image will be a part of original image after split, rotation,&lt;/p&gt;&lt;p&gt;deskew, applying margins and fill zones. This require image&lt;/p&gt;&lt;p&gt;reprocessing so it may be time consuming.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich aus, wenn "nur ganzes Bild exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Das exportierte Bild wird mit den Farben des Originalbildes gezeichnet.&lt;/p&gt;&lt;p&gt;Es werden nur Füllbereiche angewendet. Mit anderen Worten, das exportierte&lt;/p&gt;&lt;p&gt;Bild wird nach Teilung, Drehung,&lt;/p&gt;&lt;p&gt;Geraderücken, Anwendung von Rändern und Füllzonen ein Teil des Originalbildes sein. Dies erfordert eine Bild&lt;p&gt;&lt;p&gt;Neubearbeitung, kann also zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich aus, wenn "nur ganzes Bild exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Das exportierte Bild wird mit den Farben des Originalbildes gezeichnet.&lt;/p&gt;&lt;p&gt;Es werden nur F&uuml;llbereiche angewendet. Mit anderen Worten, das exportierte&lt;/p&gt;&lt;p&gt;Bild wird nach Teilung, Drehung,&lt;/p&gt;&lt;p&gt;Gerader&uuml;cken, Anwendung von Rändern und F&uuml;llzonen ein Teil des Originalbildes sein. Dies erfordert eine Bild&lt;p&gt;&lt;p&gt;Neubearbeitung, kann also zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="227"/>
         <source>Skip processing at Output stage (except for Fill Zones) 
 for exported image (lengthy)</source>
-        <translation>Bearbeitung in der Ausgabephase überspringen (außer für Füllzonen) für das exportierte Bild (langwierig)</translation>
+        <translation>Bearbeitung in der Ausgabephase &uuml;berspringen (außer f&uuml;r F&uuml;llzonen) f&uuml;r das exportierte Bild (langwierig)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="238"/>
         <source>Skip processing at Output stage (except for Fill Zones) 
 for content in foreground subscans (lengthy)</source>
-        <translation>Bearbeitung in der Ausgabephase überspringen (außer bei Fill Zones) 
-für Inhalte in Vordergrund-Subscans (langwierig)</translation>
+        <translation>Bearbeitung in der Ausgabephase &uuml;berspringen (außer bei Fill Zones) 
+f&uuml;r Inhalte in Vordergrund-Subscans (langwierig)</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="288"/>
         <source>Reset export settings to default values</source>
-        <translation>Exporteinstellungen auf Standardwerte zurücksetzen</translation>
+        <translation>Exporteinstellungen auf Standardwerte zur&uuml;cksetzen</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="291"/>
@@ -554,7 +554,7 @@ für Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="506"/>
         <source>DPI is too small for this pixel size. Such combination would probably lead to out of memory errors.</source>
-        <translation>DPI ist zu klein für diese Pixelgröße. Eine solche Kombination würde wahrscheinlich zu Problemen aufgrund von Speicherplatzmangel führen.</translation>
+        <translation>DPI ist zu klein f&uuml;r diese Pixelgröße. Eine solche Kombination w&uuml;rde wahrscheinlich zu Problemen aufgrund von Speicherplatzmangel f&uuml;hren.</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="753"/>
@@ -572,7 +572,7 @@ für Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../core/ImageViewBase.cpp" line="230"/>
         <source>Hold %1 to display original page.</source>
-        <translation>Halten Sie %1 gedrückt, um die Originalseite anzuzeigen.</translation>
+        <translation>Halten Sie %1 gedr&uuml;ckt, um die Originalseite anzuzeigen.</translation>
     </message>
 </context>
 <context>
@@ -585,12 +585,12 @@ für Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../core/interaction/InteractiveXSpline.cpp" line="78"/>
         <source>This point can be dragged. Hold %1 or %2 to drag along axes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Punkt kann verschoben werden. Halten Sie %1 oder %2 gedr&uuml;ckt, um entlang der Achsen zu ziehen.</translation>
     </message>
     <message>
         <location filename="../core/interaction/InteractiveXSpline.cpp" line="82"/>
         <source>Drag this point or delete it by pressing %1 or %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziehen Sie diesen Punkt oder löschen Sie ihn, indem Sie %1 oder %2 dr&uuml;cken.</translation>
     </message>
 </context>
 <context>
@@ -599,12 +599,13 @@ für Inhalte in Vordergrund-Subscans (langwierig)</translation>
         <location filename="../core/LoadFileTask.cpp" line="162"/>
         <source>The following file could not be loaded:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The following file could not be loaded:
+%1</translation>
     </message>
     <message>
         <location filename="../core/LoadFileTask.cpp" line="165"/>
         <source>The following file doesn&apos;t exist:&lt;br&gt;%1&lt;br&gt;&lt;br&gt;Use the &lt;a href=&quot;#relink&quot;&gt;Relinking Tool&lt;/a&gt; to locate it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgende Datei existiert nicht:&lt;br&gt;%1&lt;br&gt;&lt;br&gt;Verwenden Sie das &lt;a href=&quot;#relink&quot;&gt;Relinking Tool&lt;/a&gt; um sie zu finden.</translation>
     </message>
 </context>
 <context>
@@ -612,17 +613,17 @@ für Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../app/ui/LoadFilesStatusDialog.ui" line="14"/>
         <source>Some files failed to load</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien konnten nicht geladen werden</translation>
     </message>
     <message>
         <location filename="../app/ui/LoadFilesStatusDialog.ui" line="27"/>
         <source>Loaded successfully: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Loaded successfully: %1</translation>
     </message>
     <message>
         <location filename="../app/ui/LoadFilesStatusDialog.ui" line="87"/>
         <source>Failed to load: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte nicht geladen werden: %1</translation>
     </message>
 </context>
 <context>
@@ -630,47 +631,47 @@ für Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../app/MainWindow.cpp" line="589"/>
         <source>Stop batch processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Stapelverarbeitung stoppen</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="751"/>
         <source>Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt speichern</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="751"/>
         <source>Save this project?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Projekt speichern?</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1311"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1324"/>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Einf&uuml;gen</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="1357"/>
         <source>Regenerate result</source>
-        <translation type="unfinished"></translation>
+        <translation>Ergebnis regenerieren</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3462"/>
         <source>Go to page</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zu Seite</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3462"/>
         <source>Page number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitennummer:</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3475"/>
         <source>Select pages by number</source>
-        <translation type="unfinished"></translation>
+        <translation>Seiten nach Nummern ausw&auml;hlen</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3476"/>
@@ -679,7 +680,10 @@ für Inhalte in Vordergrund-Subscans (langwierig)</translation>
 Any non digit symbols are interpreted as number separators
 Number followed by &apos;-&apos; or &apos;:&apos; treated as a start of page sequence
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Zahlen sollten bei 1 beginnen
+ Zeilenenden werden ignoriert
+Alle nicht ziffernbezogenen Symbole werden als Zahlentrennzeichen interpretiert
+Zahlen, die von &apos;-&apos; oder &apos;:&apos; gefolgt werden, werden als Beginn einer Seitenfolge behandelt</translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3479"/>
