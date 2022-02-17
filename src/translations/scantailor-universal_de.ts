@@ -16,7 +16,7 @@
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="33"/>
         <source>Scan Tailor is an interactive post-processing tool for scanned pages. It performs operations such as page splitting, skew correction, adding/removing margins, and others. You give it raw scans, and you get pages ready to be printed or assembled into a PDF or DJVU file.  Scanning and optical character recognition is out of scope of this project.</source>
-        <translation>Scan Tailor ist ein interaktives Werkzeug f&uuml;r die Nachbearbeitung von gescannten Seiten. Es f&uuml;hrt Operationen wie Seitenteilung, Schräglagenkorrektur, Hinzuf&uuml;gen/Entfernen von Rändern und andere durch. Sie geben ihm die gescannten Rohdaten und erhalten Seiten, die gedruckt oder zu einer PDF- oder DJVU-Datei zusammengestellt werden können.  Das Scannen und die optische Zeichenerkennung sind nicht Teil dieses Projekts.</translation>
+        <translation>Scan Tailor ist ein interaktives Werkzeug f&uuml;r die Nachbearbeitung von gescannten Seiten. Es f&uuml;hrt Operationen wie Seitenteilung, Schr&auml;glagenkorrektur, Hinzuf&uuml;gen/Entfernen von R&auml;ndern und andere durch. Sie geben ihm die gescannten Rohdaten und erhalten Seiten, die gedruckt oder zu einer PDF- oder DJVU-Datei zusammengestellt werden k&ouml;nnen.  Das Scannen und die optische Zeichenerkennung sind nicht Teil dieses Projekts.</translation>
     </message>
     <message>
         <location filename="../app/ui/AboutDialog.ui" line="116"/>
@@ -170,7 +170,7 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../core/filters/page_layout/ui/alignmentwidget.ui" line="41"/>
         <source>Match size with other pages</source>
-        <translation>Größe an andere Seiten anpassen</translation>
+        <translation>Gr&ouml;ße an andere Seiten anpassen</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/alignmentwidget.ui" line="352"/>
@@ -180,7 +180,7 @@ Russian - Alexander Trufanov</translation>
     <message>
         <location filename="../core/filters/page_layout/ui/alignmentwidget.ui" line="355"/>
         <source>Automatically select alignment based on how close content to page borders</source>
-        <translation>Automatische Auswahl der Ausrichtung anhand des Abstands vom Inhalt zu den Seitenrändern</translation>
+        <translation>Automatische Auswahl der Ausrichtung anhand des Abstands vom Inhalt zu den Seitenr&auml;ndern</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/alignmentwidget.ui" line="362"/>
@@ -283,7 +283,7 @@ Russian - Alexander Trufanov</translation>
         <source>%1 already exists.
 Do you want to replace it?</source>
         <translation type="unfinished">%1 existiert bereits.
-Möchten Sie es ersetzen?</translation>
+M&ouml;chten Sie es ersetzen?</translation>
     </message>
     <message>
         <location filename="../core/DebugImageView.cpp" line="135"/>
@@ -330,7 +330,7 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../core/interaction/DragHandler.cpp" line="47"/>
         <source>Unrestricted dragging is possible by holding down the %1 key.</source>
-        <translation>Unbegrenztes Ziehen ist durch Halten der Taste %1 möglich.</translation>
+        <translation>Unbegrenztes Ziehen ist durch Halten der Taste %1 m&ouml;glich.</translation>
     </message>
 </context>
 <context>
@@ -404,7 +404,7 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="184"/>
         <source>Export selected pages only</source>
-        <translation>Nur ausgewählte Seiten exportieren</translation>
+        <translation>Nur ausgew&auml;hlte Seiten exportieren</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="194"/>
@@ -424,7 +424,7 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="214"/>
         <source>For better compatibility with DjVu Imager</source>
-        <translation>F&uuml;r bessere Kompatibilität mit DjVu Imager</translation>
+        <translation>F&uuml;r bessere Kompatibilit&auml;t mit DjVu Imager</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="217"/>
@@ -434,7 +434,7 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="235"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This will have effect if only Export Foreground is checked.&lt;/p&gt;&lt;p&gt;Foreground is a b/w image with a black content of resulting&lt;/p&gt;&lt;p&gt;image drown on white. With this mode on every black pixel will&lt;/p&gt;&lt;p&gt;be replaced with pixel on the same position taken from original&lt;/p&gt;&lt;p&gt;image. This may let you get colored or grayscale text instead of&lt;/p&gt;&lt;p&gt;binarized black one. Require image reprocessing so may be&lt;/p&gt;&lt;p&gt;time consuming.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich nur aus, wenn "Vordergrund exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Der Vordergrund ist ein s/w-Bild mit einem schwarzen Inhalt des resultierenden&lt;/p&gt;&lt;p&gt;Bildes, das auf Weiß gezeichnet wird. In diesem Modus wird jedes schwarze Pixel durch ein Pixel an der gleichen Stelle aus dem Originalbild ersetzt. Dadurch erhalten Sie möglicherweise farbigen oder in Graustufen gehaltenen Text anstelle von&lt;/p&gt;&lt;p&gt; binarisiertem schwarzem Text. Erfordert eine erneute Bildbearbeitung, kann also&lt;/p&gt;&lt;p&gt;zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich nur aus, wenn "Vordergrund exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Der Vordergrund ist ein s/w-Bild mit einem schwarzen Inhalt des resultierenden&lt;/p&gt;&lt;p&gt;Bildes, das auf Weiß gezeichnet wird. In diesem Modus wird jedes schwarze Pixel durch ein Pixel an der gleichen Stelle aus dem Originalbild ersetzt. Dadurch erhalten Sie m&ouml;glicherweise farbigen oder in Graustufen gehaltenen Text anstelle von&lt;/p&gt;&lt;p&gt; binarisiertem schwarzem Text. Erfordert eine erneute Bildbearbeitung, kann also&lt;/p&gt;&lt;p&gt;zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="74"/>
@@ -449,7 +449,7 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="84"/>
         <source>Automask could be found in ./out/cache/automask and contains autodetected mask before any zones are applied</source>
-        <translation>Automask kann in ./out/cache/automask gefunden werden und enthält automatisch erkannte Masken, bevor Zonen angewendet werden</translation>
+        <translation>Automask kann in ./out/cache/automask gefunden werden und enth&auml;lt automatisch erkannte Masken, bevor Zonen angewendet werden</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="94"/>
@@ -459,12 +459,12 @@ Möchten Sie es ersetzen?</translation>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="104"/>
         <source>Some pages might have user defined zones to fill with color or indicate some content. Their coordinates may be exported to tsv text file.</source>
-        <translation>Einige Seiten können benutzerdefinierte Zonen haben, die mit Farbe gef&uuml;llt werden oder bestimmte Inhalte anzeigen. Ihre Koordinaten können in eine tsv-Textdatei exportiert werden.</translation>
+        <translation>Einige Seiten k&ouml;nnen benutzerdefinierte Zonen haben, die mit Farbe gef&uuml;llt werden oder bestimmte Inhalte anzeigen. Ihre Koordinaten k&ouml;nnen in eine tsv-Textdatei exportiert werden.</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="224"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This will have effect if only Export Whole image is checked.&lt;/p&gt;&lt;p&gt;The exported image will be drawn with colors of original image.&lt;/p&gt;&lt;p&gt;Only fill zones will be applied. In other words the exported&lt;/p&gt;&lt;p&gt;image will be a part of original image after split, rotation,&lt;/p&gt;&lt;p&gt;deskew, applying margins and fill zones. This require image&lt;/p&gt;&lt;p&gt;reprocessing so it may be time consuming.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich aus, wenn "nur ganzes Bild exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Das exportierte Bild wird mit den Farben des Originalbildes gezeichnet.&lt;/p&gt;&lt;p&gt;Es werden nur F&uuml;llbereiche angewendet. Mit anderen Worten, das exportierte&lt;/p&gt;&lt;p&gt;Bild wird nach Teilung, Drehung,&lt;/p&gt;&lt;p&gt;Gerader&uuml;cken, Anwendung von Rändern und F&uuml;llzonen ein Teil des Originalbildes sein. Dies erfordert eine Bild&lt;p&gt;&lt;p&gt;Neubearbeitung, kann also zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dies wirkt sich aus, wenn "nur ganzes Bild exportieren" angekreuzt ist.&lt;/p&gt;&lt;p&gt;Das exportierte Bild wird mit den Farben des Originalbildes gezeichnet.&lt;/p&gt;&lt;p&gt;Es werden nur F&uuml;llbereiche angewendet. Mit anderen Worten, das exportierte&lt;/p&gt;&lt;p&gt;Bild wird nach Teilung, Drehung,&lt;/p&gt;&lt;p&gt;Gerader&uuml;cken, Anwendung von R&auml;ndern und F&uuml;llzonen ein Teil des Originalbildes sein. Dies erfordert eine Bild&lt;p&gt;&lt;p&gt;Neubearbeitung, kann also zeitaufwendig sein.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ExportDialog.ui" line="227"/>
@@ -505,7 +505,7 @@ f&uuml;r Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../app/settings/fancylineedit.cpp" line="344"/>
         <source>Clear text</source>
-        <translation>Text löschen</translation>
+        <translation>Text l&ouml;schen</translation>
     </message>
 </context>
 <context>
@@ -544,7 +544,7 @@ f&uuml;r Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="500"/>
         <source>DPI is too large and most likely wrong.</source>
-        <translation>DPI ist zu groß und höchstwahrscheinlich falsch.</translation>
+        <translation>DPI ist zu groß und h&ouml;chstwahrscheinlich falsch.</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="503"/>
@@ -554,7 +554,7 @@ f&uuml;r Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="506"/>
         <source>DPI is too small for this pixel size. Such combination would probably lead to out of memory errors.</source>
-        <translation>DPI ist zu klein f&uuml;r diese Pixelgröße. Eine solche Kombination w&uuml;rde wahrscheinlich zu Problemen aufgrund von Speicherplatzmangel f&uuml;hren.</translation>
+        <translation>DPI ist zu klein f&uuml;r diese Pixelgr&ouml;ße. Eine solche Kombination w&uuml;rde wahrscheinlich zu Problemen aufgrund von Speicherplatzmangel f&uuml;hren.</translation>
     </message>
     <message>
         <location filename="../app/FixDpiDialog.cpp" line="753"/>
@@ -567,7 +567,7 @@ f&uuml;r Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../core/ImageViewBase.cpp" line="225"/>
         <source>Use the mouse wheel or %1 to zoom. When zoomed, dragging is possible.</source>
-        <translation>Verwenden Sie das Mausrad oder %1 zum Zoomen. Im gezoomten Zustand ist das Ziehen möglich.</translation>
+        <translation>Verwenden Sie das Mausrad oder %1 zum Zoomen. Im gezoomten Zustand ist das Ziehen m&ouml;glich.</translation>
     </message>
     <message>
         <location filename="../core/ImageViewBase.cpp" line="230"/>
@@ -590,7 +590,7 @@ f&uuml;r Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../core/interaction/InteractiveXSpline.cpp" line="82"/>
         <source>Drag this point or delete it by pressing %1 or %2.</source>
-        <translation>Ziehen Sie diesen Punkt oder löschen Sie ihn, indem Sie %1 oder %2 dr&uuml;cken.</translation>
+        <translation>Ziehen Sie diesen Punkt oder l&ouml;schen Sie ihn, indem Sie %1 oder %2 dr&uuml;cken.</translation>
     </message>
 </context>
 <context>
