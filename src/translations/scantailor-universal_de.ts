@@ -1009,62 +1009,62 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="583"/>
         <source>&amp;Open Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Projekt öffnen...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="625"/>
         <source>&amp;Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Projekt schließen</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="633"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beenden</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="677"/>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Über</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="682"/>
         <source>Fix &amp;DPI...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;DPI korrigieren...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="687"/>
         <source>&amp;Relinking...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neu verknüpfen...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="776"/>
         <source>&amp;Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exportieren...</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="781"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Über &amp;Qt</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="880"/>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+Shift+B</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="895"/>
         <source>Ctrl+Shift+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+Shift+A</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="904"/>
         <source>Copy source file name(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Quelldateiname(n) kopieren</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="907"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strg+C</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="912"/>
@@ -1074,47 +1074,47 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="917"/>
         <source>Copy page number(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenzahl(en) kopieren</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="115"/>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vorschaubilder</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="282"/>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="528"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Srg+S</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="578"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strg+N</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="586"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strg+O</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="628"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strg+W</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="636"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strg+Q</translation>
     </message>
     <message>
         <location filename="../app/ui/MainWindow.ui" line="641"/>
         <source>&amp;Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Einstellungen...</translation>
     </message>
 </context>
 <context>
@@ -1122,22 +1122,22 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../app/ui/NewOpenProjectPanel.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../app/ui/NewOpenProjectPanel.ui" line="62"/>
         <source>New Project...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neues Projekt...</translation>
     </message>
     <message>
         <location filename="../app/ui/NewOpenProjectPanel.ui" line="88"/>
         <source>Open Project...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt öffnen...</translation>
     </message>
     <message>
         <location filename="../app/ui/NewOpenProjectPanel.ui" line="113"/>
         <source>Recent Projects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zuletzt bearbeitete Projekte</translation>
     </message>
 </context>
 <context>
@@ -1145,22 +1145,22 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/fix_orientation/ui/OrientationOptionsWidget.ui" line="20"/>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rotieren</translation>
     </message>
     <message>
         <location filename="../core/filters/fix_orientation/ui/OrientationOptionsWidget.ui" line="145"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zurücksetzen</translation>
     </message>
     <message>
         <location filename="../core/filters/fix_orientation/ui/OrientationOptionsWidget.ui" line="170"/>
         <source>Scope</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwendungsbereich</translation>
     </message>
     <message>
         <location filename="../core/filters/fix_orientation/ui/OrientationOptionsWidget.ui" line="191"/>
         <source>Apply to...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwenden auf...</translation>
     </message>
 </context>
 <context>
@@ -1168,108 +1168,108 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="14"/>
         <source>Out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nicht genügend Speicherplatz</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="46"/>
         <source>Out of Memory Situation in Scan Tailor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Speicherplatzmangel in Scan Tailor</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="79"/>
         <source>Possible reasons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mögliche Gründe</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="121"/>
         <source>Did you have to fix the DPI of your source images? Are you sure the values you entered were correct?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Haben Sie die DPI-Werte Ihrer Quellbilder korrigiert? Sind Sie sicher, dass die von Ihnen eingegebenen Werte korrekt waren?</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="141"/>
         <source>Sometimes your source images may have wrong DPI embedded into them. Scan Tailor tries to detect those, but it&apos;s not always easy to tell. You may need to check &quot;Fix DPI even if they look normal&quot; when creating a project and look into &quot;All pages&quot; tab in the &quot;Fix DPI&quot; dialog, which is also accessible from the Tools menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manchmal sind in Ihren Quellbildern falsche DPI-Werte eingebettet. Scan Tailor versucht, diese zu erkennen, aber es ist nicht immer einfach, sie zu identifizieren. Möglicherweise müssen Sie beim Erstellen eines Projekts &quot;DPI fixieren, auch wenn sie normal aussehen&quot; ankreuzen und die Registerkarte &quot;Alle Seiten&quot; im Dialog &quot;DPI fixieren&quot; ansehen, der auch über das Menü Extras zugänglich ist.</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="161"/>
         <source>Is your output DPI set too high? Usually you don&apos;t need it higher than 600.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ist Ihr DPI-Wert für die Ausgabe zu hoch? Normalerweise brauchen Sie nicht mehr als 600.</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="192"/>
         <source>What can help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Was kann helfen</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="231"/>
         <source>Fix your DPIs. Learn how to &lt;a href=&quot;http://vimeo.com/12524529&quot;&gt;estimate unknown DPIs&lt;/a&gt;.</source>
         <extracomment>Feel free to change the URL to a localized video / text tutorial.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Korrigieren Sie Ihre DPI-Werte. Informieren Sie sich hier &lt;a href=&quot;http://vimeo.com/12524529&quot;&gt;, wie Sie unbekannte DPIs&lt;/a&gt; schätzen können.</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="251"/>
         <source>If your hardware and operating system are 64-bit capable, consider switching to a 64-bit version of Scan Tailor.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn Ihre Hardware und Ihr Betriebssystem 64-Bit-fähig sind, sollten Sie den Wechsel zu einer 64-Bit-Version von Scan Tailor in Betracht ziehen.</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="271"/>
         <source>When working with grayscale images, make sure they are really grayscale. If they are actually color images that just happen to look grayscale, convert them to grayscale using some kind of batch image converter. This will both save memory and increase performance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Achten Sie bei der Arbeit mit Graustufenbildern darauf, dass es sich wirklich um Graustufenbilder handelt. Handelt es sich um Farbbilder, die nur zufällig wie Graustufen aussehen, konvertieren Sie sie mit einer Art Batch-Bildkonverter in Graustufen. Das spart Speicherplatz und erhöht die Leistung.</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="291"/>
         <source>As a last resort, you can save some memory by making sure thumbnails are pre-created rather than created on demand. This can be done by slowly scrolling the thumbnail list all the way from top to bottom before starting any real work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als letzten Ausweg können Sie etwas Speicherplatz sparen, indem Sie sicherstellen, dass die Miniaturansichten vorab erstellt werden und nicht erst bei Bedarf. Dazu müssen Sie die Liste der Miniaturansichten langsam von oben nach unten durchblättern, bevor Sie mit der eigentlichen Arbeit beginnen.</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="322"/>
         <source>What won&apos;t help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Was nicht hilft</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="361"/>
         <source>Surprisingly, upgrading your RAM won&apos;t help here. The lack of RAM is compensated by the swap mechanism, which makes things slow, but keeps programs running. An out of memory situation means we ran out of memory address space, which has nothing to do with the amount of RAM you have. The only way to increase the memory address space is to go 64-bit hardware, 64-bit operating system and 64-bit Scan Tailor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Überraschenderweise hilft eine Aufrüstung des Arbeitsspeichers hier nicht weiter. Der fehlende Arbeitsspeicher wird durch den Swap-Mechanismus kompensiert, der die Dinge langsam macht, aber die Programme am Laufen hält. Wenn der Arbeitsspeicher nicht ausreicht, bedeutet dies, dass der Speicheradressraum erschöpft ist, was nichts mit der Größe des Arbeitsspeichers zu tun hat, den Sie haben. Die einzige Möglichkeit, den Speicheradressraum zu vergrößern, besteht darin, 64-Bit-Hardware, ein 64-Bit-Betriebssystem und 64-Bit-Scan Tailor einzusetzen.</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="397"/>
         <source>Save Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt speichern</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="420"/>
         <source>Save Project As...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt speichern als...</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="440"/>
         <source>Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nicht speichern</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="457"/>
         <source>Project Saved Successfully</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt erfolgreich gespeichert</translation>
     </message>
     <message>
         <location filename="../app/ui/OutOfMemoryDialog.ui" line="489"/>
         <source>Please note that while Scan Tailor tries to catch out-of-memory situations and give you the opportunity to save your project, it&apos;s not always possible. This time it succeeded, but the next time it might just crash.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bitte beachten Sie, dass Scan Tailor zwar versucht, Situationen, in denen der Speicher voll ist, abzufangen und Ihnen die Möglichkeit zu geben, Ihr Projekt zu speichern, aber das ist nicht immer möglich. Dieses Mal hat es geklappt, aber beim nächsten Mal könnte es einfach abstürzen.</translation>
     </message>
     <message>
         <location filename="../app/OutOfMemoryDialog.cpp" line="88"/>
         <source>Scan Tailor Projects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scan Tailor Projekte</translation>
     </message>
     <message>
         <location filename="../app/OutOfMemoryDialog.cpp" line="123"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehler</translation>
     </message>
     <message>
         <location filename="../app/OutOfMemoryDialog.cpp" line="124"/>
         <source>Error saving the project file!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehler beim Speichern der Projektdatei</translation>
     </message>
 </context>
 <context>
@@ -1277,27 +1277,27 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/output/ui/OutputChangeDewarpingWidget.ui" line="29"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modus</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputChangeDewarpingWidget.ui" line="50"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aus</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputChangeDewarpingWidget.ui" line="63"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatisch</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputChangeDewarpingWidget.ui" line="73"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manuell</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputChangeDewarpingWidget.ui" line="83"/>
         <source>Marginal (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Marginal (experimentell)</translation>
     </message>
 </context>
 <context>
@@ -1305,37 +1305,37 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="31"/>
         <source>Output Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausabeauflösung:</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="120"/>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modus:</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="179"/>
         <source>White margins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Weiße Ränder</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="186"/>
         <source>Equalize illumination</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beleuchtung ausgleichen</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="214"/>
         <source>Auto layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatische Ebene</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="224"/>
         <source>Picture Zones layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bildzonen-Ebene</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="231"/>
         <source>Foreground layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vordergrund-Ebene</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="277"/>
@@ -1344,12 +1344,12 @@ Wird abgebrochen...</translation>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="793"/>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1111"/>
         <source>&lt;a href=&quot;#&quot;&gt;Apply To...&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;a href=&quot;#&quot;&gt; Anwenden auf...&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="368"/>
         <source>Binarisation threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schwellenwert für die Binarisierung:</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="540"/>
