@@ -618,7 +618,7 @@ f&uuml;r Inhalte in Vordergrund-Subscans (langwierig)</translation>
     <message>
         <location filename="../app/ui/LoadFilesStatusDialog.ui" line="27"/>
         <source>Loaded successfully: %1</source>
-        <translation>Loaded successfully: %1</translation>
+        <translation>Erfolgreich geladen: %1</translation>
     </message>
     <message>
         <location filename="../app/ui/LoadFilesStatusDialog.ui" line="87"/>
@@ -1354,63 +1354,63 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="540"/>
         <source>Foreground layer threshold:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schwellenwert für die Vordergrund-Ebene:</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="709"/>
         <source>Depth perception:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tiefenwahrnehmung:</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="843"/>
         <source>Dewarping:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entschärfung</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="917"/>
         <source>Despeckling:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entflecken</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="970"/>
         <source>No despeckling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kein Entflecken</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="995"/>
         <source>Cautious despeckling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vorsichtiges Entflecken</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1021"/>
         <source>Normal despeckling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normales Entflecken</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1047"/>
         <source>Aggressive despeckling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aggressives Entflecken</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1183"/>
         <source>&amp;Black and White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Schwarz und Weiß</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1188"/>
         <source>&amp;Color / Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Farbe/Graustufen</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1193"/>
         <source>&amp;Mixed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Gemischt</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1198"/>
         <location filename="../core/filters/output/ui/OutputOptionsWidget.ui" line="1203"/>
         <source>&amp;Reset to default value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Auf Standardwert zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -1418,17 +1418,17 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutApplyWidget.ui" line="38"/>
         <source>Apply what</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwenden, was</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutApplyWidget.ui" line="65"/>
         <source>Margin values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Randwerte</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutApplyWidget.ui" line="81"/>
         <source>Auto Margin setting state</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Status automatische Randeinstellung</translation>
     </message>
 </context>
 <context>
@@ -1436,64 +1436,64 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="20"/>
         <source>Margins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ränder</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="44"/>
         <source>Millimeters (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Millimeter (mm)</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="49"/>
         <source>Inches (in)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inch (in)</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="92"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="105"/>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="166"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="126"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="143"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="190"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="266"/>
         <source>Auto Margins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatische Ränder</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="307"/>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="356"/>
         <source>Apply To...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwenden auf...</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="332"/>
         <source>Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausrichtung</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/ui/PageLayoutOptionsWidget.ui" line="396"/>
         <source>Currently selected content alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuell gewählte Ausrichtung des Inhalts</translation>
     </message>
 </context>
 <context>
@@ -1501,80 +1501,80 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="46"/>
         <source>Affected range:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Betroffener Bereich:</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="118"/>
         <source>All pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle Seiten</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="125"/>
         <source>All pages after current one</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle Seiten nach der aktuellen Seite</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="132"/>
         <source>All pages before current one</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle Seiten vor der aktuellen Seite</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="153"/>
         <source>Exclude from range:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aus dem Bereich ausschließen:</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="218"/>
         <source>Even pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gerade Seiten</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="225"/>
         <source>Odd pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ungerade Seiten</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="261"/>
         <source>Single pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einzelne Seiten</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="268"/>
         <source>Left pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linke Seiten</translation>
     </message>
     <message>
         <location filename="../core/ui/PageRangeSelectorWidget.ui" line="275"/>
         <source>Right pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechte Seiten</translation>
     </message>
     <message>
         <location filename="../core/PageRangeSelectorWidget.cpp" line="47"/>
         <source>Selected (single page)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausgewählte Seite</translation>
     </message>
     <message numerus="yes">
         <location filename="../core/PageRangeSelectorWidget.cpp" line="49"/>
         <source>Selected (%n pages)</source>
         <comment>plural forms supported</comment>
-        <translation type="unfinished">
+        <translation type="unfinished">Ausgewählte (%n Seiten)
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../core/PageRangeSelectorWidget.cpp" line="82"/>
         <source>(current page is odd)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(aktuelle Seite ist ungerade)</translation>
     </message>
     <message>
         <location filename="../core/PageRangeSelectorWidget.cpp" line="83"/>
         <source>(current page is even)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(aktuelle Seite ist gerade)</translation>
     </message>
     <message>
         <location filename="../core/PageRangeSelectorWidget.cpp" line="107"/>
         <source>Can&apos;t do: more than one group is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nicht möglich: Es ist mehr als eine Gruppe ausgewählt.</translation>
     </message>
 </context>
 <context>
@@ -1582,27 +1582,27 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitModeWidget.ui" line="83"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitModeWidget.ui" line="89"/>
         <source>Apply cut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausschnitt anwenden</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitModeWidget.ui" line="99"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modus</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitModeWidget.ui" line="105"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatisch</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitModeWidget.ui" line="115"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manuell</translation>
     </message>
 </context>
 <context>
@@ -1610,37 +1610,37 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitOptionsWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitOptionsWidget.ui" line="26"/>
         <source>Page Layout on image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitenlayout auf Bild</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitOptionsWidget.ui" line="134"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">?</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitOptionsWidget.ui" line="159"/>
         <source>Change...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ändern...</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitOptionsWidget.ui" line="184"/>
         <source>Split Line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trennlinie</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitOptionsWidget.ui" line="214"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatisch</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/ui/PageSplitOptionsWidget.ui" line="230"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manuell</translation>
     </message>
 </context>
 <context>
@@ -1648,22 +1648,22 @@ Wird abgebrochen...</translation>
     <message>
         <location filename="../core/filters/output/ui/PictureZonePropDialog.ui" line="14"/>
         <source>Zone Properties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereichseigenschaften</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/PictureZonePropDialog.ui" line="20"/>
         <source>Subtract from all layers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Von allen Ebenen subtrahieren</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/PictureZonePropDialog.ui" line="27"/>
         <source>Add to auto layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zur Auto-Ebene hinzufügen</translation>
     </message>
     <message>
         <location filename="../core/filters/output/ui/PictureZonePropDialog.ui" line="34"/>
         <source>Subtract from auto layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Von Auto-Ebene subtrahieren</translation>
     </message>
 </context>
 <context>
@@ -1672,35 +1672,35 @@ Wird abgebrochen...</translation>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="20"/>
         <location filename="../app/ProjectFilesDialog.cpp" line="350"/>
         <source>Input Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eingabeverzeichnis</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="43"/>
         <location filename="../app/ProjectFilesDialog.cpp" line="370"/>
         <source>Output Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausgabeverzeichnis</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="14"/>
         <source>Project Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projektdateien</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="33"/>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="52"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Durchsuchen</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="64"/>
         <source>Files Not In Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dateien nicht im Projekt</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="77"/>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="159"/>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle auswählen</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="102"/>
@@ -1708,12 +1708,15 @@ Wird abgebrochen...</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Add selected files to project.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Ausgewählte Dateien zum Projekt hinzufügen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="108"/>
         <source>&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="115"/>
@@ -1721,27 +1724,30 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Remove selected files from project.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Ausgewählte Dateien aus dem Projekt entfernen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="121"/>
         <source>&lt;&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;&lt;</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="143"/>
         <source>Files In Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dateien im Projekt</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="171"/>
         <source>Right to left layout (for Hebrew and Arabic)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Layout von rechts nach links (für Hebräisch und Arabisch)</translation>
     </message>
     <message>
         <location filename="../app/ui/ProjectFilesDialog.ui" line="178"/>
         <source>Fix DPIs, even if they look OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">DPIs korrigieren, auch wenn sie OK aussehen</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="536"/>
@@ -1751,49 +1757,51 @@ p, li { white-space: pre-wrap; }
         <location filename="../app/ProjectFilesDialog.cpp" line="584"/>
         <location filename="../app/ProjectFilesDialog.cpp" line="657"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehler</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="536"/>
         <source>No files in project!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine Dateien im Projekt!</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="545"/>
         <source>Input directory is not set or doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eingabeverzeichnis ist nicht festgelegt oder existiert nicht.</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="554"/>
         <source>Input and output directories can&apos;t be the same.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eingabe- und Ausgabeverzeichnisse können nicht identisch sein.</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="564"/>
         <source>Create Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verzeichnis erstellen?</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="565"/>
         <source>Output directory doesn&apos;t exist. Create it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausgabeverzeichnis existiert nicht. Soll es erstellt werden?</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="576"/>
         <source>Unable to create output directory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausgabeverzeichnis kann nicht erstellt werden.</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="585"/>
         <source>Output directory is not set or doesn&apos;t exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Ausgabeverzeichnis ist nicht festgelegt oder existiert nicht.</translation>
     </message>
     <message>
         <location filename="../app/ProjectFilesDialog.cpp" line="657"/>
         <source>Some of the files failed to load.
 Either we don&apos;t support their format, or they are broken.
 You should remove them from the project.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einige der Dateien konnten nicht geladen werden.
+Entweder unterstützen wir ihr Format nicht, oder sie sind defekt.
+Sie sollten sie aus dem Projekt entfernen.</translation>
     </message>
 </context>
 <context>
@@ -1801,12 +1809,12 @@ You should remove them from the project.</source>
     <message>
         <location filename="../app/ProjectOpeningContext.cpp" line="49"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fehler</translation>
     </message>
     <message>
         <location filename="../app/ProjectOpeningContext.cpp" line="50"/>
         <source>Unable to interpret the project file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Projektdatei kann nicht interpretiert werden.</translation>
     </message>
 </context>
 <context>
@@ -1814,18 +1822,19 @@ You should remove them from the project.</source>
     <message>
         <location filename="../app/SettingsDialog.cpp" line="828"/>
         <source>Edit key sequence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tastenkombination bearbeiten</translation>
     </message>
     <message>
         <location filename="../app/SettingsDialog.cpp" line="830"/>
         <source>Hold the modification keys (Ctrl, Shift, Alt, Meta)
 and press [Enter] to edit the shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Halten Sie die Änderungstasten (Strg, Shift, Alt, Meta)
+und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     </message>
     <message>
         <location filename="../app/SettingsDialog.cpp" line="832"/>
         <source>Hold the keys and press [Enter] to edit the shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Halten Sie die Tasten gedrückt und drücken Sie [Enter], um die Tastenkombination zu bearbeiten:</translation>
     </message>
 </context>
 <context>
@@ -1833,83 +1842,83 @@ and press [Enter] to edit the shortcut:</source>
     <message numerus="yes">
         <location filename="../app/MainWindow.cpp" line="2746"/>
         <source>Remove %n page(s) from project?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation type="unfinished">%n Seite(n) aus dem Projekt entfernen?
+            <numerusform>ja</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../app/MainWindow.cpp" line="3271"/>
         <source>%1 x %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 x %2 %3</translation>
     </message>
     <message>
         <location filename="../app/ThumbnailSequence.cpp" line="1008"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Warnung</translation>
     </message>
     <message>
         <location filename="../app/ThumbnailSequence.cpp" line="1009"/>
         <source>The file &quot;%1&quot; is not ready for output.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Datei &quot;%1&quot; ist nicht bereit zur Ausgabe.</translation>
     </message>
     <message>
         <location filename="../app/ThumbnailSequence.cpp" line="1689"/>
         <source>Meta</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Meta</translation>
     </message>
     <message>
         <location filename="../app/ThumbnailSequence.cpp" line="1691"/>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Strg</translation>
     </message>
     <message>
         <location filename="../app/CanberraSoundPlayer.cpp" line="24"/>
         <source>Pages processing is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitenbearbeitung ist abgeschlossen.</translation>
     </message>
     <message numerus="yes">
         <location filename="../core/PageRangeSelectorWidget.cpp" line="312"/>
         <source>%n pages</source>
         <comment>plural forms supported</comment>
-        <translation type="unfinished">
+        <translation type="unfinished">%n Seiten
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <location filename="../core/PageRangeSelectorWidget.cpp" line="314"/>
         <source>%1 page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 Seite</translation>
     </message>
     <message>
         <location filename="../core/PageRangeSelectorWidget.cpp" line="319"/>
         <source>-%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">-%1</translation>
     </message>
     <message>
         <location filename="../core/StatusBarProvider.h" line="119"/>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">px</translation>
     </message>
     <message>
         <location filename="../core/StatusBarProvider.h" line="121"/>
         <source>in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">in</translation>
     </message>
     <message>
         <location filename="../core/StatusBarProvider.h" line="123"/>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mm</translation>
     </message>
     <message>
         <location filename="../core/StatusBarProvider.h" line="125"/>
         <source>cm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cm</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/Filter.cpp" line="53"/>
         <location filename="../core/filters/fix_orientation/Filter.cpp" line="58"/>
         <source>Natural order</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Natürliche Reihenfolge</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/Filter.cpp" line="54"/>
@@ -1918,47 +1927,47 @@ and press [Enter] to edit the shortcut:</source>
         <location filename="../core/filters/page_split/Filter.cpp" line="67"/>
         <location filename="../core/filters/select_content/Filter.cpp" line="59"/>
         <source>Processed then unprocessed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verarbeitet und unverarbeitet</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/Filter.cpp" line="55"/>
         <source>Order by angle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortierung nach Winkel</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/Filter.cpp" line="56"/>
         <source>Order by absolute angle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortierung nach absolutem Winkel</translation>
     </message>
     <message>
         <location filename="../core/filters/deskew/OrderByAngleProvider.h" line="71"/>
         <source>angle: %1°</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Winkel: %1°</translation>
     </message>
     <message>
         <location filename="../core/filters/fix_orientation/Filter.cpp" line="59"/>
         <source>Order by rotation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sortierung nach Rotation</translation>
     </message>
     <message>
         <location filename="../core/filters/fix_orientation/OrderByRotation.cpp" line="49"/>
         <source>rotation: %1°</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Drehung: %1°</translation>
     </message>
     <message>
         <location filename="../core/filters/output/OrderByModeProvider.cpp" line="70"/>
         <source>b/w</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">schwarz/weiß</translation>
     </message>
     <message>
         <location filename="../core/filters/output/OrderByModeProvider.cpp" line="71"/>
         <source>color/grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farbe/Graustufen</translation>
     </message>
     <message>
         <location filename="../core/filters/output/OrderByModeProvider.cpp" line="72"/>
         <source>mixed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gemischt</translation>
     </message>
     <message>
         <location filename="../core/filters/output/OrderBySourceColor.cpp" line="77"/>
