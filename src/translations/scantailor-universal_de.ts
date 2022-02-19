@@ -2663,47 +2663,47 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="75"/>
         <source>Borders in MM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ränder in MM</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="98"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="108"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="118"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="128"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="161"/>
         <source>Content Box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inhaltskasten</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="209"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manuell</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="238"/>
         <source>Scope</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Umfang</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="259"/>
         <source>Apply to...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwenden auf...</translation>
     </message>
 </context>
 <context>
@@ -2711,22 +2711,22 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="14"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einstellungen</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="106"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eigenschaften</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="120"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eingeschaltet</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="151"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filter</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="196"/>
@@ -2759,7 +2759,7 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
         <location filename="../app/ui/SettingsDialog.ui" line="4205"/>
         <location filename="../app/ui/SettingsDialog.ui" line="4280"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beschreibung</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="277"/>
@@ -2781,118 +2781,124 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
         <location filename="../app/ui/SettingsDialog.ui" line="4165"/>
         <location filename="../app/ui/SettingsDialog.ui" line="4245"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Optionen</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="296"/>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwendungssprache:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="303"/>
         <source>Batch processing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stapelverarbeitung</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="309"/>
         <source>All pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle Seiten</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="319"/>
         <source>Start from selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beginnen mit der ausgewählten</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="344"/>
         <source>Ask every time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jedes Mal fragen</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="366"/>
         <source>Application style:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stil der Anwendung</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="387"/>
         <source>Application stylesheet:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anwendungs-Stylesheet:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="510"/>
         <source>&amp;Reset to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Auf Standardwerte zurücksetzen</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1184"/>
         <source>TIFF compression (b/w):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TIFF-Komprimierung (s/w):</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1231"/>
         <source>TIFF compression (non b/w):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TIFF-Komprimierung (nicht s/w):</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1702"/>
         <source>Grid and lines color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gitter und Linienfarbe:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1935"/>
         <source>Content zone highlight color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farbe für die Hervorhebung des Inhaltsbereichs:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2843"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Alignment setting has no sense if &amp;quot;Match with other pages&amp;quot; is switched off. In this case final size for all pages is calculated separately and equal to content one plus its hard margins.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Alignment&lt;/span&gt; defines how to align content zone with its hard margins by changing soft margins. It could be combination of values of following alignment types: manual, auto-magnet and original proportions (last two are optional features).&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Manual alignment&lt;/span&gt; is always available to user and allows him to choose the page side (top, left etc.), page corner (top-left, bottom-right etc.) where soft margins will be set to 0. In case of hard margins are zero for such side this means content zone will touch page border. It also allows to center content zone on page horizontally, vertically or both.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Auto-Magnet alignment&lt;/span&gt; (just Auto in other version of ST) is very similar to Manual mode. In fact - it automatically chooses one of Manual mode options based on how close original content zone to page borders. I would say content zone is magnetized to the closest side or corner of page or to its center. This type of alignment is optional.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note&lt;/span&gt;: in case Original Proportions alignment is enabled then Auto-Magnet considers it as one of options and may choose it automatically for vertical/horizontal alignment or both.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Original Proportions alignment&lt;/span&gt; (based on Original alignment in other versions of ST) distributes soft margins proportionally to space around content zone on original page. For example, if your content on left pages of document is closer to right border of page and content on right pages is closer to left border of page and you want to keep this alignment for left/right pages in a result you&apos;ll face some problems. Because due to different dpi, scan size, splits or deskew angle your page most probably will have a slightly different sizes. And thus even if you set auto-margins or manually set unequal hard margins for left/right pages you&apos;ll end up with non-zero soft margins (unless you switch off &amp;quot;Match with other pages&amp;quot; and all your pages final sizes will be different). Or this could happen if you have cover page in your project and want all page sizes be equal - cover pages may be bigger than other pages. Anyway you&apos;ll end up with necessity to distribute non-zero soft margins. Original proportions alignment may do it for you automatically proportionally to your content zone original position on page. This type of alignment is optional.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note&lt;/span&gt;: Original proportions alignment is done for content zone with its hard margins around, while position proportions are calculated without considering hard margin values.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note&lt;/span&gt;: Original proportions mode considers page size after its refinement by Page Detection feature (if enabled) on previous processing step.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Note&lt;/span&gt;: Final alignment is a sum of horizontal and vertical alignments (or one may say alignment by height and by width). There is a way to define them separately even for different types of alignment. For example: auto-magnet horizontally and original proportions vertically. Or original proportions horizontally and align to top border vertically.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Die Einstellung Ausrichtung hat keinen Sinn, wenn &amp;quot;Anpassen an andere Seiten&amp;quot; ausgeschaltet ist. In diesem Fall wird die endgültige Größe für alle Seiten separat berechnet und entspricht dem Inhalt einer Seite plus deren harten Rändern.&amp;quot; &lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Ausrichtung&lt;/span&gt; legt fest, wie die Inhaltszone mit ihren harten Rändern durch Änderung der weichen Ränder ausgerichtet werden soll. Es kann eine Kombination von Werten der folgenden Ausrichtungsarten sein: Manuell, Auto-Magnet und Originalproportionen (die letzten beiden sind optionale Funktionen).&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Manuelle Ausrichtung&lt;/span&gt; steht dem Benutzer immer zur Verfügung und ermöglicht ihm die Auswahl der Seitenseite (oben, links etc. ), Seitenecke (oben links, unten rechts usw.), wo die weichen Ränder auf 0 gesetzt werden. Falls die harten Ränder für diese Seite Null sind, bedeutet dies, dass die Inhaltszone den Seitenrand berührt. Es erlaubt auch, den Inhaltsbereich auf der Seite horizontal, vertikal oder beides zu zentrieren.&lt;/p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Auto-Magnet-Ausrichtung&lt;/span&gt; (nur Auto in anderen Versionen von ST) ist dem manuellen Modus sehr ähnlich. Tatsächlich wählt er automatisch eine der Optionen des manuellen Modus, je nachdem, wie nah der ursprüngliche Inhaltsbereich an den Seitenrändern liegt. Man könnte sagen, dass die Inhaltszone an der nächstgelegenen Seite oder Ecke der Seite oder in der Mitte der Seite magnetisiert wird. Diese Art der Ausrichtung ist optional.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;&gt;Hinweis&lt;/span&gt;: falls die Ausrichtung "Original Proportionen" aktiviert ist, betrachtet Auto-Magnet sie als eine der Optionen und kann sie automatisch für die vertikale/horizontale Ausrichtung oder beides wählen. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Original Proportionsausrichtung&lt;/span&gt; (basierend auf Original Ausrichtung in anderen Versionen von ST) verteilt weiche Ränder proportional zum Platz um die Inhaltszone auf der Originalseite. Wenn z.B. der Inhalt auf der linken Seite des Dokuments näher am rechten Rand der Seite und der Inhalt auf der rechten Seite näher am linken Rand der Seite liegt und Sie diese Ausrichtung für linke/rechte Seiten beibehalten wollen, werden Sie auf einige Probleme stoßen. Denn aufgrund von unterschiedlichen dpi, Scan-Größen, Teilungen oder Schräglagenwinkeln wird Ihre Seite höchstwahrscheinlich eine leicht unterschiedliche Größe haben. Selbst wenn Sie die automatischen Ränder einstellen oder manuell ungleiche harte Ränder für linke und rechte Seiten festlegen, werden Sie am Ende weiche Ränder haben, die nicht Null sind (es sei denn, Sie schalten die Funktion &amp;quot;Mit anderen Seiten abgleichen&amp;quot; aus, und alle Ihre Seiten haben unterschiedliche Endgrößen). Dies könnte auch passieren, wenn Sie ein Deckblatt in Ihrem Projekt haben und alle Seitengrößen gleich sein sollen - Deckblätter können größer sein als andere Seiten. In jedem Fall müssen Sie am Ende weiche Ränder verteilen, die nicht Null sind. Die Ausrichtung der ursprünglichen Proportionen kann dies für Sie automatisch proportional zur ursprünglichen Position des Inhaltsbereichs auf der Seite tun. Diese Art der Ausrichtung ist optional.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Hinweis&lt;/span&gt;: Die Ausrichtung der Originalproportionen erfolgt für den Inhaltsbereich mit seinen harten Rändern, während die Positionsproportionen ohne Berücksichtigung der harten Ränder berechnet werden.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Hinweis&lt;/span&gt;: Der Modus "Originalproportionen" berücksichtigt die Seitengröße nach ihrer Verfeinerung durch die Funktion "Seitenerkennung" (falls aktiviert) im vorherigen Verarbeitungsschritt.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Hinweis&lt;/span&gt;: Die endgültige Ausrichtung ist eine Summe aus horizontaler und vertikaler Ausrichtung (oder man kann auch sagen: Ausrichtung nach Höhe und nach Breite). Es gibt eine Möglichkeit, sie getrennt zu definieren, auch für verschiedene Arten der Ausrichtung. Zum Beispiel: Auto-Magnet horizontal und Original-Proportionen vertikal. Oder Originalproportionen horizontal und vertikal am oberen Rand ausrichten.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2935"/>
         <source>Description of currently selected alignment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beschreibung der aktuell gewählten Ausrichtung</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="3423"/>
         <source>In this mode page content is not changed.
 Margins can be filled with white or left as is. If the margins are filled in white, then the option to equalize illumination also becomes available.
 Equalize illumination option normalizes the background color, bringing it to white, and normalizes contrast, increasing it in the shaded areas.</source>
-        <translation type="unfinished"></translation>
+        <translation>In diesem Modus wird der Seiteninhalt nicht verändert.
+Die Ränder können mit Weiß gefüllt oder unverändert gelassen werden. Wenn die Ränder mit Weiß gefüllt sind, ist auch die Option Ausleuchtung ausgleichen verfügbar.
+Mit der Option Ausleuchtung angleichen wird die Hintergrundfarbe normalisiert, d.h. auf Weiß gebracht, und der Kontrast normalisiert, d. h. in den schattierten Bereichen erhöht.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="3529"/>
         <source>Mixed mode is used for projects in which there are scans from half-tone images (grayscale or color). Pictures will be automatically detected and displayed as it is, just as in the &quot;Color / Grayscale&quot; with the included equalized illumination. The rest of the page is displayed in black and white.
 
 Automatic picture zones detection works well enough, but if the picture merges smoothly into the background the result may be unsatisfactory. In this case, you must create and configure the picture zone images. It is important to note that the creation of zones of images is possible only in mixed mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der gemischte Modus wird für Projekte verwendet, bei denen es Scans von Halbtonbildern (Graustufen oder Farbe) gibt. Die Bilder werden automatisch erkannt und angezeigt, genau wie im Modus &quot;Farbe/Graustufen&quot; mit der integrierten kompensierten Ausleuchtung. Der Rest der Seite wird in Schwarz-Weiß angezeigt.
+
+Die automatische Erkennung von Bildbereichen funktioniert gut genug, aber wenn das Bild nahtlos in den Hintergrund übergeht, kann das Ergebnis nicht zufriedenstellend sein. In diesem Fall müssen Sie die Bilder für die Bildzonen erstellen und konfigurieren. Es ist wichtig zu beachten, dass die Erstellung von Bildzonen nur im gemischten Modus möglich ist.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="3733"/>
         <source>Picture zones layer works on top of Auto layer results and could be useful if your pictures are known to be rectangles. Auto layer is build automatically and doesn&apos;t make any assumptions on areas geometry. Picture zones layer tries to improve its mask assuming all picture areas found should be rectangles.
 This layer doesn&apos;t modify auto layer mask but automatically creates rectangle zones on top of it. So usually it covers all auto layer with polygons. User can change these polygons as regular picture zones.
 In case sensitivity parameter is 100% the picture detection algorithm looks for the separate picture areas and adds a minimal bounding rect for each of them as a zone. In this case zone contains pixels from auto layer mask and may contain pixels that are not included in auto layer mask but still inside the rect. If sensitivity is less than 100% the algorithm additionally investigates each side of bounding rect and tries to move it towards the center of rect while the line of pixels behind it contains more than N% of pixels that are not from auto layer mask. Decreasing sensitivity may help to better fit picture zone over picture area by ignoring pixels-outliers incorrectly included in auto layer mask. Usually, the sensitivity is 75-100%.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Ebene "Bildzonen" arbeitet zusätzlich zu den Ergebnissen der Ebene "Auto" und kann nützlich sein, wenn Ihre Bilder bekanntermaßen rechteckig sind. Die Auto-Ebene wird automatisch erstellt und macht keine Annahmen über die Geometrie der Bereiche. Die Ebene "Bildzonen" versucht, ihre Maske zu verbessern, indem sie davon ausgeht, dass alle gefundenen Bildbereiche Rechtecke sein sollten.
+Diese Ebene verändert die Maske der automatischen Ebene nicht, sondern erstellt automatisch rechteckige Bereiche auf ihr. So deckt sie normalerweise die gesamte automatische Ebene mit Polygonen ab. Der Benutzer kann diese Polygone als reguläre Bildbereiche ändern.
+Wenn der Empfindlichkeitsparameter 100% beträgt, sucht der Bilderkennungsalgorithmus nach den einzelnen Bildbereichen und fügt für jeden von ihnen ein minimales Begrenzungsrechteck als Zone hinzu. In diesem Fall enthält die Zone Pixel aus der automatischen Ebenenmaske und kann auch Pixel enthalten, die nicht in der automatischen Ebenenmaske enthalten sind, sich aber noch innerhalb des Rechtecks befinden. Wenn die Empfindlichkeit weniger als 100 % beträgt, untersucht der Algorithmus zusätzlich jede Seite des Begrenzungsrechtecks und versucht, es in Richtung der Mitte des Rechtecks zu verschieben, wenn die dahinter liegende Pixelreihe mehr als N% der Pixel enthält, die nicht aus der Maske der automatischen Ebene stammen. Eine Verringerung der Empfindlichkeit kann dazu beitragen, die Bildzone besser an den Bildbereich anzupassen, indem fälschlicherweise in der automatischen Ebenenmaske enthaltene Pixelausreißer ignoriert werden. Normalerweise liegt die Empfindlichkeit bei 75-100%.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="4060"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dewarping tries to detect and fix distortion of page surface by analyzing lines of text on it. It assumes that the lines should be horizontal.&lt;/p&gt;&lt;p&gt;Automatic, marginal and manual modes are supported.&lt;/p&gt;&lt;p&gt;Try to correct auto distortion model if too skewed - if enabled then some vertical edges of automatically generated distortion model that deviate to more than 2.75 degrees to Y-axis may be treated as invalid and slope is set to sero. That may help in some cases when auto generation of distortion model gives incorrect results.&lt;/p&gt;&lt;p&gt;Try to apply additional deskew after dewarp - we already deskewed our image on one of previous processing stage but sometimes image may get skewed after dewarping. Thus additional attempt to deskew resulting image may be applied. The skew of the image after dewarping is measured and if the angle is more than 2.0 degrees - it&apos;s deskewed. There is no controls to tune this automatic deskew, it takes some CPU time and it&apos;s not working with automatic dewarping. So use it with &lt;a name=&quot;result_box&quot;/&gt;with caution.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dewarping versucht, eine Verzerrung der Seitenoberfläche zu erkennen und zu korrigieren, indem es die Textzeilen darauf analysiert. Dabei wird davon ausgegangen, dass die Zeilen horizontal sein sollten.&lt;/p&gt;&lt;p&gt;Es werden die Modi Automatisch, Marginal und Manuell unterstützt.&lt;/p&gt;&lt;p&gt;Es wird versucht, das automatische Verzerrungsmodell zu korrigieren, wenn es zu schräg ist - wenn aktiviert, werden einige vertikale Kanten des automatisch generierten Verzerrungsmodells, die um mehr als 2,75 Grad von der Y-Achse abweichen, als ungültig behandelt und die Neigung wird auf Null gesetzt. Das kann in einigen Fällen helfen, wenn die automatische Generierung des Verzeichnungsmodells zu falschen Ergebnissen führt.&lt;/p&gt;&lt;p&gt;Versuchen Sie, nach der Entzerrung eine zusätzliche Begradigung vorzunehmen - wir haben unser Bild bereits in einer der vorherigen Verarbeitungsstufen entzerrt, aber manchmal kann das Bild nach der Entzerrung noch schief sein. Daher kann ein zusätzlicher Versuch unternommen werden, das resultierende Bild zu begradigen. Die Schräglage des Bildes nach der Entzerrung wird gemessen, und wenn der Winkel mehr als 2,0 Grad beträgt, ist das Bild entzerrt. Es gibt keine Einstellmöglichkeiten für diese automatische Schräglagenkorrektur, sie nimmt einige CPU-Zeit in Anspruch und funktioniert nicht mit dem automatischen Dewarping. Verwenden Sie es also mit &lt;a name=&quot;result_box&quot;/&gt;mit Vorsicht&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="4089"/>
         <source>Try to correct auto distortion model if too skewed</source>
-        <translation type="unfinished"></translation>
+        <translation>Versuchen Sie, das automatische Verzerrungsmodell zu korrigieren, wenn es zu schief ist.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="4096"/>
         <source>Try to apply additional deskew after dewarp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versuchen Sie, nach der Entzerrung ein zusätzliches Geraderücken durchzuführen.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="4251"/>
         <source>Copy ICC profile from source image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ICC-Profil vom Quellbild kopieren</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="4334"/>
@@ -2902,12 +2908,17 @@ If debugging enabled you may find a new tabs on top of page view panel. Each tab
 In case the page was already processed when you switch Debug Mode on these tabs won&apos;t appear as cached resulting image is displayed and no real processing is done in this case. You have to force page reprocessing to get debug images. Use &quot;Regenerate result&quot; command from context menu in Thumbnail view for this.
 
 Debug images are saved as png in temporary folder with unique filenames. These files are automatically removed when application doesn&apos;t need them anymore. You can find them there or use Save as command from debug tab&apos;s image view context menu to make a persistent copy of image.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die meisten Verarbeitungsstufen erfordern mehrere Schritte der Bildtransformation, des Zuschneidens, Skalierens, Änderns von Farben, Anwendens von Filtern usw., um das resultierende Bild mit bestimmten Parametern zu berechnen. Diese Umwandlungen können dem Benutzer zu Fehlersuchzwecken (Debugging) angezeigt werden.
+Wenn die Fehlersuche aktiviert ist, finden Sie oben im Seitenansichtsfenster eine neue Registerkarte. Jede Registerkarte enthält ein Debugging-Bild, das einen im Titel beschriebenen Verarbeitungsschritt darstellt.
+
+Falls die Seite bereits verarbeitet wurde, wenn Sie den Fehlersuchmodus einschalten, werden diese Registerkarten nicht angezeigt, da das im Cache gespeicherte Ergebnisbild angezeigt wird und in diesem Fall keine wirkliche Verarbeitung stattfindet. Sie müssen die erneute Verarbeitung der Seite erzwingen, um Debug-Bilder zu erhalten. Verwenden Sie dazu den Befehl &quot;Ergebnis neu generieren&quot; aus dem Kontextmenü in der Vorschaubildansicht.
+
+Debug-Bilder werden als png in einem temporären Ordner mit eindeutigen Dateinamen gespeichert. Diese Dateien werden automatisch entfernt, wenn die Anwendung sie nicht mehr benötigt.Sie können sie dort finden oder den Befehl &apos;Speichern unter&apos; im Kontextmenü der Debug-Registerkarte &apos;Bildansicht&apos; verwenden, um eine dauerhafte Kopie des Bildes zu erstellen.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="652"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;These settings should let you fine tune thumbnails display. By default thumbnails are added one after each other in rows, so if you change width of the thumbnails view you can get &amp;quot;multicolumn&amp;quot;-like style. Still you should remember that this is a list and not a grid alignment. Thus in case of different sizes of thumbnails equal spaces between &amp;quot;columns&amp;quot; are not guaranteed as well as equal number of thumbnails in each row. Disable first check-box to stay with single-column mode even if width of the view allows to display more.&lt;/p&gt;&lt;p&gt;By default you can use Alt+mouse wheel to change max size of thumbnails in the list. The key could be changed in hotkey manager. Mouse cursor should be other the thumbnails view. Thumbnails are automatically scaled to max size keeping their proportions. Switch off this mode and define fixed size (160x250 is recommended) if needed.&lt;/p&gt;&lt;p&gt;Even if you increase max size of thumbnails to some big values you want be able to find small details on them due to pure quality of the image. That&apos;s because they are cached after scaling to size 200x200 pixels. You can change this to 600x600 or 1200x1200 to increase thumbnail quality. Note: this affects only newly created thumbnails. If you already have them cached you&apos;ll need to delete cache subfolder in project folder manually to regenerate them.&lt;/p&gt;&lt;p&gt;All thumbnails have minimal margin between them and left/top borders of the view. It could be changed.&lt;/p&gt;&lt;p&gt;Thumbnail size is defined as a size of thumbnail image with boundary adjustments around it. These adjustments could be tuned here too.&lt;/p&gt;&lt;p&gt;Note: currently final boundary of the thumbnails could be affected by too long filenames displayed below them.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;In case of any problems use reset button which reset thumbnail settings only to their defaults.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mit diesen Einstellungen können Sie die Anzeige der Miniaturansichten (Thumbnails) feinabstimmen. Standardmäßig werden die Thumbnails in Reihen hintereinander eingefügt. Wenn Sie also die Breite der Thumbnail-Ansicht ändern, können Sie einen &amp;quot;mehrspaltigen&amp;quot;-ähnlichen Stil erreichen. Sie sollten jedoch bedenken, dass es sich um eine Liste und nicht um ein Raster handelt. Daher sind bei unterschiedlichen Größen der Thumbnails gleiche Abstände zwischen den &amp;quot;Spalten&amp;quot; nicht garantiert, ebenso wenig wie eine gleiche Anzahl von Thumbnails in jeder Zeile. Deaktivieren Sie das erste Kontrollkästchen, um den einspaltigen Modus beizubehalten, auch wenn die Breite der Ansicht es erlaubt, mehr anzuzeigen. Standardmäßig können Sie Alt+Mausrad verwenden, um die maximale Größe der Thumbnails in der Liste zu ändern. Die Taste kann im Hotkey-Manager geändert werden. Der Mauszeiger sollte sich außerhalb der Thumbnails-Ansicht befinden. Die Thumbnails werden automatisch auf die maximale Größe skaliert, wobei ihre Proportionen erhalten bleiben. Schalten Sie diesen Modus aus und legen Sie bei Bedarf eine feste Größe fest (160x250 wird empfohlen). Auch wenn Sie die maximale Größe der Miniaturansichten auf große Werte erhöhen, sollten Sie aufgrund der reinen Bildqualität in der Lage sein, kleine Details auf ihnen zu finden. Das liegt daran, dass sie nach der Skalierung auf eine Größe von 200x200 Pixeln zwischengespeichert werden. Sie können dies auf 600x600 oder 1200x1200 ändern, um die Qualität der Thumbnails zu erhöhen. Hinweis: Dies betrifft nur neu erstellte Thumbnails. Wenn sie bereits im Cache gespeichert sind, müssen Sie den Cache-Unterordner im Projektordner manuell löschen, um sie neu zu generieren.&lt;/p&gt;&lt;p&gt;Alle Thumbnails haben einen minimalen Rand zwischen ihnen und dem linken/oberen Rand der Ansicht. Dies kann geändert werden.&lt;/p&gt;&lt;p&gt;Die Größe der Miniaturbilder wird als Größe der Miniaturbilder mit Randanpassungen um sie herum definiert. Diese Anpassungen können auch hier vorgenommen werden.&lt;/p&gt;&lt;p&gt;Hinweis: Derzeit kann die endgültige Begrenzung der Miniaturbilder durch zu lange Dateinamen, die darunter angezeigt werden, beeinträchtigt werden. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Bei Problemen verwenden Sie die Schaltfläche "Zurücksetzen", die die Miniaturansichts-Einstellungen nur auf ihre Standardwerte zurücksetzt.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="250"/>
@@ -2916,22 +2927,25 @@ Debug images are saved as png in temporary folder with unique filenames. These f
 Batch processing - a simple dialog that appears if you press the launch button and allows you to start page processing from the beginning instead of a current page.
 
 You can add new images (for ex. missing pages) after project is created with Insert new image command in thumbnails context menu. Images that already in the project may be filtered out in file selection dialog automatically. But this require non-native dialog implementation which may look unusual and lack some platform features. You can turn option &quot;Filter existing files in insert new image dialog&quot; off and stick to usage of native dialog. But filtering existing images is not guaranteed in this case.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungssprache - ermöglicht die Umschaltung der Sprache der Benutzeroberfläche. Wenn es die von Ihnen benötigte Sprache nicht gibt und Sie uns bei der Übersetzung helfen können, wenden Sie sich bitte an den Projektbetreuer.
+
+Stapelverarbeitung - ein einfaches Dialogfeld, das erscheint, wenn Sie die Schaltfläche "Starten" drücken, und das es Ihnen ermöglicht, die Seitenverarbeitung von Anfang an zu starten, anstatt mit der aktuellen Seite.
+Sie können neue Bilder (z. B. fehlende Seiten) hinzufügen, nachdem das Projekt mit dem Befehl &quot;Neues Bild einfügen&quot; im Kontextmenü der Miniaturbilder erstellt wurde. Bilder, die sich bereits im Projekt befinden, können im Dateiauswahldialog automatisch herausgefiltert werden. Dies erfordert jedoch eine nicht-native Dialogimplementierung, die ungewöhnlich aussehen kann und der einige Plattformfunktionen fehlen.Sie können die Option &quot;Vorhandene Dateien filtern&quot; im Dialog &quot;Neues Bild einfügen&quot; deaktivieren und die Verwendung des nativen Dialogs beibehalten. Die Filterung vorhandener Bilder ist in diesem Fall jedoch nicht gewährleistet.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="356"/>
         <source>Filter existing files in insert new image dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorhandene Dateien im Dialog &quot;Neues Bild einfügen&quot; filtern</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="681"/>
         <source>Place as many thumbnails in a row as possible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Platzieren Sie so viele Miniaturbilder wie möglich in einer Reihe</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="691"/>
         <source>Use fixed max thumbnail size</source>
-        <translation type="unfinished"></translation>
+        <translation>Feste Maximalgröße für Miniaturbilder verwenden</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="722"/>
@@ -2943,43 +2957,44 @@ You can add new images (for ex. missing pages) after project is created with Ins
         <location filename="../app/ui/SettingsDialog.ui" line="899"/>
         <location filename="../app/ui/SettingsDialog.ui" line="919"/>
         <source> px</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">px</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="788"/>
         <source>Scale cached images to this size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skaliere zwischengespeicherte Bilder auf diese Größe:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="811"/>
         <source>Minimal space between images:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minimaler Abstand zwischen den Bildern:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="834"/>
         <source>Thumbnail boundary adjustments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anpassung der Miniaturansicht:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="966"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zurücksetzen</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="976"/>
         <source>Display hints under pages if order isn&apos;t natural</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Anzeige von Hinweisen unter Seiten, wenn die Reihenfolge nicht natürlich ist</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1026"/>
         <source>Allows to automatically save project file (*.scantailor) with a specified time interval.
 If project was never saved before this will create UnnamedAutoSave.Scantailor file in project&apos;s input directory. Otherwise project file will be backed up to *.bak file in the its folder and then overwritten with current project state.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ermöglicht das automatische Speichern der Projektdatei (*.scantailor) in einem bestimmten Zeitintervall.
+Wenn das Projekt noch nie gespeichert wurde, wird die Datei &quot;UnnamedAutoSave.Scantailor&quot; im Eingabeverzeichnis des Projekts erstellt. Andernfalls wird die Projektdatei in eine *.bak-Datei im Projektordner gesichert und dann mit dem aktuellen Projektstatus überschrieben.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1052"/>
         <source>Save project every:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Speichere Projekt alle:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1059"/>
