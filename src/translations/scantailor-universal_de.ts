@@ -2999,17 +2999,17 @@ Wenn das Projekt noch nie gespeichert wurde, wird die Datei &quot;UnnamedAutoSav
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1059"/>
         <source> min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> min.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1278"/>
         <source>Hide rare or unsupported methods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seltene oder nicht unterstützte Methoden ausblenden</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1285"/>
         <source>Use horizontal differencing predictor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prädiktor mit horizontaler Differenzierung verwenden</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1348"/>
@@ -3018,7 +3018,11 @@ Wenn das Projekt noch nie gespeichert wurde, wird die Datei &quot;UnnamedAutoSav
 This is a manual stage because the program does not know how to determine the correct orientation of scans - the user must do this. This also means that using batch processing at this stage is useless. Obviously it behooves the user to make sure all initial scans are of the same orientation, if possible; mixing orientation will make this stage less automatic and more time-consuming.
 
 Use &quot;Apply To...&quot; dialog to apply changes to a specified range of pages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In diesem Schritt ist es möglich, die Scans um ein Vielfaches von 90 Grad zu drehen, d. h. seitliche oder auf dem Kopf stehende Scans zu korrigieren.
+
+Dies ist ein manueller Schritt, da das Programm nicht weiß, wie es die korrekte Ausrichtung der Scans bestimmen soll - dies muss der Benutzer tun. Das bedeutet auch, dass die Stapelverarbeitung in diesem Stadium nutzlos ist. Es liegt auf der Hand, dass der Benutzer sicherstellen sollte, dass alle anfänglichen Scans nach Möglichkeit die gleiche Ausrichtung haben; eine unterschiedliche Ausrichtung macht diesen Schritt weniger automatisch und zeitaufwändiger.
+
+Verwenden Sie den Dialog &quot;Anwenden auf...&quot;, um Änderungen auf einen bestimmten Bereich von Seiten anzuwenden.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1444"/>
@@ -3032,127 +3036,142 @@ Type of division:
 The type of division is determined automatically, but can be set manually. If image width twice bigger than image height it&apos;s treated as a scan of two-pages. Use the &quot;Change ...&quot;, to manually set. The type of division can be applied to all pages at once or individual pages.
 
 The dividing line can also be determined/moved automatically or specified manually, but it can not be applied to other pages unless Apply cut mode is on. It is useful to quickly check out the preview pane of each page to ensure the page splits have been correctly applied - sometimes images in pages can affect the split operation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In diesem Schritt wird festgelegt, ob die Seite(n) geteilt werden soll(en).
+Art der Teilung:
+
+• Ein vollständiger Scan, ohne Teile der nächsten Seite. Diese Scans werden in der Regel von speziellen Buchscannern oder Fotografien erstellt.
+• Ein Scan, der einen Teil der nächsten Seite trifft.
+• Zwillingsscan.
+
+Die Art der Teilung wird automatisch bestimmt, kann aber manuell eingestellt werden. Wenn die Bildbreite doppelt so groß ist wie die Bildhöhe, wird es als ein Scan von zwei Seiten behandelt. Verwenden Sie die Funktion &quot;Ändern ...&quot;, um sie manuell einzustellen. Die Art der Teilung kann auf alle Seiten auf einmal oder auf einzelne Seiten angewendet werden.
+
+Die Trennlinie kann auch automatisch bestimmt/verschoben oder manuell festgelegt werden, aber sie kann nur dann auf andere Seiten angewendet werden, wenn der Modus &quot;Schnitt anwenden&quot; aktiviert ist. Es ist sinnvoll, das Vorschaufenster jeder Seite schnell zu überprüfen, um sicherzustellen, dass die Seitenteilung korrekt angewendet wurde - manchmal können Bilder in den Seiten den Teilungsvorgang beeinflussen.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1516"/>
         <source>If this feature is enabled the application shows &quot;Apply cut&quot; check box in &quot;Apply to...&quot; dialog at Split pages stage. In case it&apos;s checked the application tries to copy dividing lines position to the specified page range. In case target page size mismatch the original page the dividing line position will be scaled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn diese Funktion aktiviert ist, zeigt die Anwendung das Kontrollkästchen &quot;Ausschneiden anwenden&quot; im Dialogfeld &quot;Anwenden auf...&quot; in der Phase Seiten teilen an. Wenn es aktiviert ist, versucht die Anwendung, die Position der Trennlinien in den angegebenen Seitenbereich zu kopieren. Falls die Zielseitengröße nicht mit der Originalseite übereinstimmt, wird die Position der Trennlinien skaliert.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1549"/>
         <source>Switched on by default:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standardmäßig eingeschaltet:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1658"/>
         <source>At this stage one may determine the angle which the page needs to be turned for the text to be properly horizontal. Since compensation is a simple rotation such distortions as keystone or curling can not be corrected at this stage. The rotation angle is determined automatically, but you can also set it manually.
 
 Images can be rotated by dragging the round handles at the edges. You can also explicitly specify the rotation angle in degrees. Positive angles will rotate the image clockwise, negative counter-clockwise. For fine adjustment of the angle it may be convenient to click the mouse on the text portion of the input field corner, then move the mouse wheel to fix it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In diesem Schritt kann man den Winkel bestimmen, um den die Seite gedreht werden muss, damit der Text korrekt horizontal ist. Da es sich bei der Kompensation um eine einfache Drehung handelt, können Verzerrungen wie Trapezverzerrungen oder Krümmungen in diesem Stadium nicht korrigiert werden. Der Drehwinkel wird automatisch ermittelt, Sie können ihn aber auch manuell einstellen.
+
+Bilder können durch Ziehen an den runden Anfassern an den Rändern gedreht werden. Sie können den Drehwinkel auch explizit in Grad angeben. Bei positiven Winkeln wird das Bild im Uhrzeigersinn gedreht, bei negativen gegen den Uhrzeigersinn. Zur Feineinstellung des Winkels kann es hilfreich sein, mit der Maus auf den Textteil in der Ecke des Eingabefeldes zu klicken und dann das Mausrad zu bewegen, um ihn zu fixieren.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1798"/>
         <source>If enabled - marks deviant pages with red asterisks in Thumbnails panel.
 The Deviant page on this stage is defined as a page which absolute deskew angle value is bigger than specified in command line (5 degrees by default) or differs from average angle more than 1.5 standard deviations. Average angle and standard deviation are statistical measurements calculated based on all pages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn diese Option aktiviert ist, werden abweichende Seiten mit roten Sternchen im Thumbnails-Panel markiert.
+Eine abweichende Seite ist in diesem Schritt definiert als eine Seite, deren absoluter Schräglagenwinkel größer ist als in der Befehlszeile angegeben (standardmäßig 5 Grad) oder um mehr als 1,5 Grad Standardabweichung vom durchschnittlichen Winkel abweicht. Durchschnittswinkel und Standardabweichung sind statistische Werte, die auf der Grundlage aller Seiten berechnet werden.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2161"/>
         <source>Fine tune page corners:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Feineinstellung der Seitenecken:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2170"/>
         <source>Default value for page: enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standardwert für die Seite: aktiviert</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2180"/>
         <source>Target page size in MM:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zielgröße der Seite in mm:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1728"/>
         <location filename="../app/ui/SettingsDialog.ui" line="1961"/>
         <source>Click to change color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zum Ändern der Farbe klicken</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1738"/>
         <location filename="../app/ui/SettingsDialog.ui" line="1971"/>
         <source>Reset color to default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farbe auf Standard zurücksetzen</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2400"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;At this stage you may adjust the margins added to the content box. There are &lt;span style=&quot; font-weight:600;&quot;&gt;two types of margins&lt;/span&gt; - hard and soft.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Hard margin&lt;/span&gt; - is that between the solid lines. They are set by the user. You can either move over any solid line, be it an inner or outer edge, or set the margins through numerical values.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Soft margin&lt;/span&gt; - is that between the solid and the dotted line. These margins are &lt;span style=&quot; text-decoration: underline;&quot;&gt;automatically&lt;/span&gt; added to bring the page size to the same size of other pages. If you see a dotted line - this means that somewhere in the project there is a page with that width (usable area of Hard + margin), and (possibly others) with that height. This is one big page causing the soft margins in all the other pages, if only for not leveling them off.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Alignment&lt;/span&gt; defines how to align content zone with its hard margins by changing soft margins. It could be: manual, auto-magnet and original proportions (last two are optional features).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;In diesem Schritt können Sie die dem Inhaltsfeld hinzugefügten Ränder anpassen. Es gibt &lt;span style=&quot; font-weight:600;&quot;&gt;zwei Arten von Rändern&lt;/span&gt; - harte und weiche.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Harter Rand&lt;/span&gt; - ist der zwischen den durchgezogenen Linien. Sie werden vom Benutzer festgelegt. Sie können entweder über jede durchgezogene Linie fahren, sei es ein innerer oder äußerer Rand, oder die Ränder durch numerische Werte einstellen.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Weicher Rand&lt;/span&gt; - ist derjenige zwischen der durchgezogenen und der gepunkteten Linie. Diese Ränder werden &lt;span style=&quot; text-decoration: underline;&quot;&gt;automatisch&lt;/span&gt; hinzugefügt, um die Seitengröße an die Größe der anderen Seiten anzupassen. Wenn Sie eine gepunktete Linie sehen, bedeutet dies, dass es irgendwo im Projekt eine Seite mit dieser Breite (nutzbarer Bereich von Hart + Rand) und (möglicherweise andere) mit dieser Höhe gibt. Dies ist eine große Seite, die die weichen Ränder in allen anderen Seiten verursacht, und sei es nur, um sie nicht zu nivellieren.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Ausrichtung&lt;/span&gt; definiert, wie die Inhaltszone mit ihren harten Rändern durch Änderung der weichen Ränder ausgerichtet werden soll. Möglich sind: Manuell, Auto-Magnet und Originalproportionen (die letzten beiden sind optionale Funktionen).&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2556"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can set default &lt;span style=&quot; font-weight:600;&quot;&gt;&amp;quot;hard margins&amp;quot;&lt;/span&gt; values for &lt;span style=&quot; font-weight:600;&quot;&gt;top, left, right&lt;/span&gt; and &lt;span style=&quot; font-weight:600;&quot;&gt;bottom&lt;/span&gt; sides.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Auto margins&lt;/span&gt; let you automatically calculate margin values for content area so their combined size will match page size. Page area is usually equal to image area (after page splitting and deskew) but could be affected with optional page detection feature on content selection stage.&lt;/p&gt;&lt;p&gt;Note: Even if you apply auto margins to all pages in project that doesn&apos;t guarantee that all content rects plus corresponding hard margins will result to the same size. Thus in case of &amp;quot;Match with other pages&amp;quot; enabled you&apos;ll get some &lt;span style=&quot; font-weight:600;&quot;&gt;soft margins&lt;/span&gt; that should be addressed with help of Alignment. There could be many reasons of page size mismatch: different size of original scans, different page splitting, page geometry change after deskew or distinction in page detection results.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hier können Sie Standardwerte für &lt;span style=&quot; font-weight:600;&quot;&gt;&amp;quot; harte Ränder&amp;quot;&lt;/span&gt; für &lt;span style=&quot; font-weight: 600;&quot;&gt;oben, links, rechts&lt;/span&gt; und &lt;span style=&quot; font-weight:600;&quot;&gt;unten&lt;/span&gt; Seiten. Mit &lt;span style=&quot; font-weight:600;&quot;&gt;Auto-Margins&lt;/span&gt; können Sie die Randwerte für den Inhaltsbereich automatisch berechnen, so dass ihre kombinierte Größe der Seitengröße entspricht. Die Seitenfläche entspricht normalerweise der Bildfläche (nach Seitenteilung und Geraderücken), kann aber durch die optionale Funktion zur Seitenerkennung bei der Inhaltsauswahl beeinflusst werden. Im Falle von &amp;quot;Abgleich mit anderen Seiten&amp;quot; erhalten Sie daher einige &lt;span style=&quot; font-weight:600;&quot;&gt;weiche Ränder&lt;/span&gt; die mit Hilfe der Ausrichtungsfunktion behandelt werden sollten. Es kann viele Gründe für eine nicht übereinstimmende Seitengröße geben: unterschiedliche Größe der Originalscans, unterschiedliche Aufteilung der Seite, Änderung der Seitengeometrie nach dem Geraderücken oder Unterschiede in den Ergebnissen der Seitenerkennung.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2585"/>
         <location filename="../app/ui/SettingsDialog.ui" line="2892"/>
         <source>Default values:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standardwerte:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="3635"/>
         <source>Auto layer is switched on by default and contains automatically detected areas which are most likely pictures and should be left grayscaled/colored while other converted to b/w.
 The result is binary mask and could be viewed in Layers tab. It&apos;s highlighted by blue and glowing.
 This mask can&apos;t be changed directly but only switched on/off. User could also create zones (polygons) with &quot;subtract from Auto layer&quot; or &quot;Add to Auto layer&quot; flags to modify it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die automatische Ebene ist standardmäßig aktiviert und enthält automatisch erkannte Bereiche, bei denen es sich höchstwahrscheinlich um Bilder handelt, die grau/farbig belassen werden sollten, während andere in Schwarzweiß umgewandelt werden.
+Das Ergebnis ist eine binäre Maske, die auf der Registerkarte "Ebenen" angezeigt werden kann. Sie ist blau hervorgehoben und leuchtet.
+Diese Maske kann nicht direkt geändert, sondern nur ein- und ausgeschaltet werden. Der Benutzer kann auch Bereiche (Polygone) mit den Markierungen &quot;Von Auto-Ebene subtrahieren&quot; oder &quot;Zu Auto-Ebene hinzufügen&quot; erstellen, um sie zu verändern.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="741"/>
         <location filename="../app/ui/SettingsDialog.ui" line="2192"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Breite:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="715"/>
         <location filename="../app/ui/SettingsDialog.ui" line="2206"/>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Höhe:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2223"/>
         <source>Default borders in MM:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standardränder in mm:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="872"/>
         <location filename="../app/ui/SettingsDialog.ui" line="2242"/>
         <source>Left:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="912"/>
         <location filename="../app/ui/SettingsDialog.ui" line="2281"/>
         <source>Right:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="852"/>
         <location filename="../app/ui/SettingsDialog.ui" line="2255"/>
         <source>Top:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="559"/>
         <source>If docking is enabled the Filters and Thumbnails panels could be pop out from their positions (left and right sides of the ain application window) and float over page view one. Once pop out they could be placed back by double clicking panel&apos;s title or pressing an icon on it (icon might be not displayable of your system).
 This option allows to increase page view panel size to almost a whole application window size which may be useful in some cases.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn das Andocken aktiviert ist, können die Filter- und Thumbnail-Panels aus ihren Positionen (links und rechts des Anwendungsfensters) herausgeklappt werden und über der Seitenansicht schweben. Sobald sie herausgeklappt sind, können sie durch einen Doppelklick auf den Titel des Panels oder durch Drücken eines Symbols wieder eingefügt werden (das Symbol kann auf Ihrem System möglicherweise nicht angezeigt werden).
+Diese Option ermöglicht es, die Größe des Seitenansichtsfensters auf fast die gesamte Größe des Anwendungsfensters zu erweitern, was in einigen Fällen nützlich sein kann.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="892"/>
         <location filename="../app/ui/SettingsDialog.ui" line="2291"/>
         <source>Bottom:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten:</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1151"/>
@@ -3161,20 +3180,27 @@ This option allows to increase page view panel size to almost a whole applicatio
 Availability of compression methods depends on their support in libtiff and options used to build it. So not all methods are available. Also some could be used with black/white images only.
 
 Horizontal differencing predictor - a preprocessing step applied to image data that might improve compression rate. Only few compression methods are benefit from this. In particular - LZW.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sobald alle Verarbeitungsschritte abgeschlossen sind, werden die resultierenden Bilder im Unterordner &quot;./out&quot; Ihres Projekteingabeordners im TIFF-Format gespeichert. Das TIFF-Format unterstützt Dutzende von Bildkomprimierungsmethoden von Keine bis JPEG. Die Voreinstellung ist LZW. Bleiben Sie dabei, bis Sie sicher sind, dass Sie etwas anderes brauchen.
+
+Die Verfügbarkeit von Komprimierungsmethoden hängt von ihrer Unterstützung in libtiff und den Optionen ab, mit denen es erstellt wurde. Es sind also nicht alle Methoden verfügbar. Einige können auch nur mit Schwarz/Weiß-Bildern verwendet werden.
+
+Horizontal Differencing Predictor - ein Vorverarbeitungsschritt, der auf Bilddaten angewendet wird und die Kompressionsrate verbessern kann. Nur wenige Kompressionsmethoden profitieren davon. Insbesondere - LZW.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="1891"/>
         <source>This stage determines the rectangular region with &quot;useful&quot; or usable content (shaded in color). Why do we need to define this area? Firstly in order to determine the page size to the output. The content will be added to the total margin area, and the outer limit of these margins affects the size of the output file. Secondly so that the final images don&apos;t show the line of fold or other debris from the edges. Strictly speaking whether the debris falls in the margin in the output stage depends on the mode. In most modes the margin is filled in white.
 
 If areas are identified incorrectly, you can tweak individual pages manually by setting the mouse pointer over the edge, clicking &amp; dragging as needed. Check Hotkeys manager for a list of all possible operations. Occasionally Scan Tailor may find non-existent content or conversely not select content where it should. In this case, you can manually create / delete a region by right-clicking on the image, and select the appropriate menu item.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In dieser Phase wird der rechteckige Bereich mit &quot;nützlichem&quot; oder verwertbarem Inhalt (farblich schattiert) festgelegt. Warum müssen wir diesen Bereich festlegen? Erstens, um die Seitengröße für die Ausgabe zu bestimmen. Der Inhalt wird zum gesamten Randbereich addiert, und die äußere Grenze dieser Ränder beeinflusst die Größe der Ausgabedatei. Zweitens, damit die endgültigen Bilder nicht die Falzlinie oder andere Ablagerungen an den Rändern aufweisen. Ob die Überreste in der Ausgabestufe in den Rand fallen, hängt streng genommen vom Modus ab. In den meisten Modi wird der Rand weiß ausgefüllt.
+
+Wenn Bereiche falsch identifiziert werden, können Sie einzelne Seiten manuell anpassen, indem Sie den Mauszeiger über den Rand setzen, klicken &amp; ziehen, wie benötigt. Im Hotkeys-Manager finden Sie eine Liste aller möglichen Operationen. Gelegentlich kann es vorkommen, dass Scan Tailor nicht existierende Inhalte findet oder umgekehrt Inhalte nicht dort auswählt, wo es sollte. In diesem Fall können Sie manuell einen Bereich erstellen/löschen, indem Sie mit der rechten Maustaste auf das Bild klicken und den entsprechenden Menüpunkt auswählen.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2031"/>
         <source>If enabled - marks deviant pages with red asterisks in Thumbnails panel.
 The Deviant page on this stage is defined as a page which content zone square differs from average square more than 1.0 standard deviation. Factor 1.0 may be changed via command line. Average square and standard deviation are statistical measurements calculated based on all pages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn diese Funktion aktiviert ist, werden abweichende Seiten im Thumbnails-Panel mit roten Sternchen markiert.
+Eine abweichende Seite ist in diesem Schritt definiert als eine Seite, deren Inhaltszonenquadrat um mehr als 1,0 Grad Standardabweichung vom durchschnittlichen Quadrat abweicht. Der Faktor 1,0 kann über die Befehlszeile geändert werden. Durchschnittsquadrat und Standardabweichung sind statistische Größen, die auf der Grundlage aller Seiten berechnet werden.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2124"/>
@@ -3187,48 +3213,57 @@ Page detection target size - you may specify real physical size of a single page
 Page borders - after page area is found this will decrease it by given borders.
 
 Everything outside page area is highlighted with yellow in page view panel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standardmäßig versucht die Anwendung, einen Inhaltsbereich auf der gesamten Seite zu finden. Aber manchmal hat der Benutzer einen Scan, der größer als die Seite ist. Dies kann passieren, wenn Sie den gesamten möglichen Scannerbereich scannen, auch wenn Ihre Seiten kleiner sind als dieser. In diesem Fall erhalten Sie möglicherweise ein großes Bild mit großen schwarzen Rändern. Wenn die Seitenerkennung aktiviert ist, versucht die Anwendung, einen echten Seitenbereich im Bild zu finden, bevor der Inhaltsbereich erkannt wird. Im Erfolgsfall wird der Inhaltsbereich nur innerhalb des gefundenen Bereichs gesucht. Technisch gesehen wird das Bild vorverarbeitet, um schwarze Ränder aus dem Seitenbereich auszuschließen. Die folgenden Verbesserungen können angewendet werden (in der Reihenfolge ihrer Auflistung):
+
+Feinabstimmung der Seitenecken - Verschieben Sie die Ecken des erkannten Seitenbereichs in Richtung der Seitenmitte, wobei die Eckpixel nicht schwarz sein werden.
+
+Zielgröße der Seitenerkennung - Sie können die tatsächliche physische Größe einer einzelnen Seite angeben, wenn diese bekannt ist. Die Anwendung wählt den am besten passenden Seitenbereich, falls es mehrere Alternativen gibt.
+
+Seitengrenzen - nachdem der Seitenbereich gefunden wurde, wird er um die angegebenen Grenzen verkleinert.
+
+Alles, was außerhalb des Seitenbereichs liegt, wird in der Seitenansicht gelb hervorgehoben.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2592"/>
         <source>Millimeters (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Millimeter (mm)</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2597"/>
         <source>Inches (in)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inches (in)</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2620"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oben</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2657"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Links</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2677"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechts</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2714"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unten</translation>
     </message>
     <message>
         <location filename="../app/SettingsDialog.cpp" line="535"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2463"/>
         <source>If enabled - marks deviant pages with red asterisks in Thumbnails panel.
 The Deviant page on this stage is defined as a page which has no alignment.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn aktiviert - markiert abweichende Seiten mit roten Sternchen im Thumbnails-Panel.
+Die abweichende Seite wird in diesem Schritt als eine Seite definiert, die keine Ausrichtung hat.</translation>
     </message>
     <message>
         <location filename="../app/ui/SettingsDialog.ui" line="2748"/>
