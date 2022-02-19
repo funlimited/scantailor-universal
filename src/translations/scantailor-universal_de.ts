@@ -2502,67 +2502,67 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="203"/>
         <source>Zones edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereiche bearbeiten</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="210"/>
         <source>Move vertically</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vertikal verschieben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="212"/>
         <source>Move horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horizontal verschieben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="217"/>
         <source>Delete control point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrollpunkt löschen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="219"/>
         <source>Distortion model (dewarping)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entzerrungsverfahren (Dewarpen)</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="226"/>
         <source>Switch off despeckling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entflecken ausschalten</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="228"/>
         <source>Switch to cautious mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In den Sicherheitsmodus wechseln</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="230"/>
         <source>Switch to normal mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In den Normalmodus wechseln</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="232"/>
         <source>Switch to aggressive mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">In den Aggressivmodus wechseln</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="234"/>
         <source>Despeckling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entflecken</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="291"/>
         <source>The hotkeys scheme in your settings file is incompatible with current application version. Hotkeys settings will be reseted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Das Hotkey-Schema in Ihrer Einstellungsdatei ist nicht mit der aktuellen Anwendungsversion kompatibel. Die Hotkeys-Einstellungen werden zurückgesetzt.</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="293"/>
         <source>Scan Tailor Universal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Scan Tailor Universal</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="417"/>
         <source> or </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> oder </translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="552"/>
@@ -2572,17 +2572,17 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="553"/>
         <source>mouse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klicken</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="554"/>
         <source>wheel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rad</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="555"/>
         <source>double click</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doppelklick</translation>
     </message>
 </context>
 <context>
@@ -2590,27 +2590,27 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../app/ui/RelinkingDialog.ui" line="14"/>
         <source>Relinking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neu verlinken</translation>
     </message>
     <message>
         <location filename="../app/ui/RelinkingDialog.ui" line="97"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rückgängig machen</translation>
     </message>
     <message>
         <location filename="../app/RelinkingDialog.cpp" line="94"/>
         <source>Substitution File for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ersetzungsdatei für %1</translation>
     </message>
     <message>
         <location filename="../app/RelinkingDialog.cpp" line="101"/>
         <source>Substitution Directory for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ersetzungsverzeichnis für %1</translation>
     </message>
     <message>
         <location filename="../app/RelinkingDialog.cpp" line="129"/>
         <source>This change would merge several files into one.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diese Änderung würde mehrere Dateien zu einer einzigen zusammenführen.</translation>
     </message>
 </context>
 <context>
@@ -2618,17 +2618,17 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../app/ui/RemovePagesDialog.ui" line="14"/>
         <source>Remove Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seiten entfernen</translation>
     </message>
     <message>
         <location filename="../app/ui/RemovePagesDialog.ui" line="72"/>
         <source>Corresponding output files will be deleted, while input files will remain.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die entsprechenden Ausgabedateien werden gelöscht, während die Eingabedateien erhalten bleiben.</translation>
     </message>
     <message>
         <location filename="../app/ui/RemovePagesDialog.ui" line="113"/>
         <source>Additionally remove input files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zusätzlich Eingabedateien entfernen</translation>
     </message>
 </context>
 <context>
@@ -2636,29 +2636,29 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="20"/>
         <source>Page Box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitenbox</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="28"/>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="180"/>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deaktivieren</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="44"/>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="193"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="62"/>
         <source>Shift with corners while they are in black. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mit den Ecken verschieben, solange diese schwarz sind. </translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="65"/>
         <source>Fine Tune Page Corners</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Feinabstimmung der Seitenecken</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/ui/SelectContentOptionsWidget.ui" line="75"/>
