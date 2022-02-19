@@ -1557,8 +1557,9 @@ Wird abgebrochen...</translation>
         <location filename="../core/PageRangeSelectorWidget.cpp" line="49"/>
         <source>Selected (%n pages)</source>
         <comment>plural forms supported</comment>
-        <translation type="unfinished">Ausgewählte (%n Seiten)
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ausgewählt (%n Seite)</numerusform>
+            <numerusform>Ausgewählt (%n Seiten)</numerusform>
         </translation>
     </message>
     <message>
@@ -1842,8 +1843,9 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message numerus="yes">
         <location filename="../app/MainWindow.cpp" line="2746"/>
         <source>Remove %n page(s) from project?</source>
-        <translation type="unfinished">%n Seite(n) aus dem Projekt entfernen?
-            <numerusform>ja</numerusform>
+        <translation>
+            <numerusform>%n Seite aus dem Projekt entfernen?</numerusform>
+            <numerusform>%n Seiten aus dem Projekt entfernen?</numerusform>
         </translation>
     </message>
     <message>
@@ -1881,7 +1883,8 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
         <source>%n pages</source>
         <comment>plural forms supported</comment>
         <translation type="unfinished">%n Seiten
-            <numerusform></numerusform>
+            <numerusform>%n Seite</numerusform>
+            <numerusform>%n Seiten</numerusform>
         </translation>
     </message>
     <message>
@@ -1952,12 +1955,12 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../core/filters/fix_orientation/OrderByRotation.cpp" line="49"/>
         <source>rotation: %1°</source>
-        <translation type="unfinished">Drehung: %1°</translation>
+        <translation type="unfinished">Rotation: %1°</translation>
     </message>
     <message>
         <location filename="../core/filters/output/OrderByModeProvider.cpp" line="70"/>
         <source>b/w</source>
-        <translation type="unfinished">schwarz/weiß</translation>
+        <translation type="unfinished">Schwarz/Weiß</translation>
     </message>
     <message>
         <location filename="../core/filters/output/OrderByModeProvider.cpp" line="71"/>
@@ -1972,367 +1975,368 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
     <message>
         <location filename="../core/filters/output/OrderBySourceColor.cpp" line="77"/>
         <source>grayscale source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Graustufenquelle</translation>
     </message>
     <message>
         <location filename="../core/filters/output/OrderBySourceColor.cpp" line="77"/>
         <source>color source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farbquelle</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="120"/>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="204"/>
         <source>centered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zentriert</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="122"/>
         <source>centered horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">horizontal zentriert</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="124"/>
         <source>centered vertically</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vertikal zentriert</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="130"/>
         <source>top-left corner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecke oben links</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="132"/>
         <source>top-right corner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecke oben rechts</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="134"/>
         <source>top side</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oberkante</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="138"/>
         <source>bottom-left corner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecke unten links</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="140"/>
         <source>bottom-right corner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ecke unten rechts</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="142"/>
         <source>bottom side</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unterkante</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="146"/>
         <source>left side</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">linke Kante</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="148"/>
         <source>right side</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">rechte Kante</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="154"/>
         <source>automatically</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">automatisch</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="156"/>
         <source>automatically by width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">automatisch nach Breite</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="158"/>
         <source>automatically by height</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">automatisch nach Höhe</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="163"/>
         <source>proportional to original position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">proportional zur ursprünglichen Position</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="165"/>
         <source>proportional to original horizontal position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">proportional zur ursprünglichen horizontalen Position</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="167"/>
         <source>proportional to original vertical position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">proportional zur ursprünglichen vertikalen Position</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="170"/>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="254"/>
         <source>%1 + %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 + %2</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="206"/>
         <source>x: center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">x: Mitte</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="208"/>
         <source>y: center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">y: Mitte</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="214"/>
         <source>top-left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">oben links</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="216"/>
         <source>top-right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">oben rechts</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="218"/>
         <source>y: top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">y: oben</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="222"/>
         <source>bottom-left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">unten links</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="224"/>
         <source>bottom-right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">unten rechts</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="226"/>
         <source>y: bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">y: unten</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="230"/>
         <source>x: left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">x: links</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="232"/>
         <source>x: right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">x:rechts</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="238"/>
         <location filename="../core/filters/page_split/OrderBySplitTypeProvider.cpp" line="89"/>
         <source>auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">auto</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="240"/>
         <source>x: auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">x: auto</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="242"/>
         <source>y: auto</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">y:auto</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="247"/>
         <source>proportional</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">proportional</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="249"/>
         <source>x: prop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">x: prop.</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/Alignment.cpp" line="251"/>
         <source>y: prop.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">y: prop.</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/OrderByAlignment.cpp" line="93"/>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nicht definiert</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/OrderByHeightProvider.cpp" line="107"/>
         <location filename="../core/filters/select_content/OrderBySizeProvider.cpp" line="121"/>
         <source>height: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Höhe: %1</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/OrderByHeightProvider.cpp" line="108"/>
         <location filename="../core/filters/page_layout/OrderByWidthProvider.cpp" line="108"/>
         <location filename="../core/filters/select_content/OrderBySizeProvider.cpp" line="110"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">?</translation>
     </message>
     <message>
         <location filename="../core/filters/page_layout/OrderByWidthProvider.cpp" line="107"/>
         <location filename="../core/filters/select_content/OrderBySizeProvider.cpp" line="121"/>
         <source>width: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Breite: %1</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/OrderByPageSizeProvider.cpp" line="102"/>
         <source>max width: %1 px</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">max. Breite: %1 px</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/OrderByPageSizeProvider.cpp" line="106"/>
         <source>max width: %1 %2 (%3 dpi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">maximale Breite: %1 %2 (%3 dpi)</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/OrderBySplitTypeProvider.cpp" line="86"/>
         <source>uncut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ungeschnitten</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/OrderBySplitTypeProvider.cpp" line="87"/>
         <source>offcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ausgeschnitten</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/OrderBySplitTypeProvider.cpp" line="88"/>
         <source>two pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zwei Seiten</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/OrderBySplitTypeProvider.cpp" line="90"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">unbekannt</translation>
     </message>
     <message>
         <location filename="../core/filters/page_split/OrderBySplitTypeProvider.cpp" line="97"/>
         <source>split: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aufteilung: %1</translation>
     </message>
     <message>
         <location filename="../core/filters/select_content/OrderBySizeProvider.cpp" line="135"/>
         <source>%1 %2 (%3 dpi)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">>%1 %2 (%3 dpi)</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="39"/>
         <source>New project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neues Projekt</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="41"/>
         <source>Open project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt öffnen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="43"/>
         <source>Save project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt speichern</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="45"/>
         <source>Save project as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt speichern als</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="47"/>
         <source>Close project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Projekt schließen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="49"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beenden</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="52"/>
         <source>Main menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hauptmenü</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="58"/>
         <source>Fix Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausrichtung festlegen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="60"/>
         <source>Split Pages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seiten aufteilen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="62"/>
         <location filename="../core/settings/hotkeysmanager.cpp" line="133"/>
         <source>Deskew</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entzerren</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="64"/>
         <source>Select Content</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inhalt auswählen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="66"/>
         <source>Page Layout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitenlayout</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="68"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ausgabe</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="71"/>
         <source>Stages navigation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ebenennavigation</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="79"/>
         <source>First page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erste Seite</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="81"/>
         <source>Last page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Letzte Seite</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="85"/>
         <source>Previous page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vorige Seite</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="89"/>
         <source>Next page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nächste Seite</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="91"/>
         <source>First selected page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Erste ausgewählte Seite</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="93"/>
         <source>Last selected page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Letzte ausgewählte Seite</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="95"/>
         <source>Previous selected page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vorige ausgewählte Seite</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="97"/>
         <source>Next selected page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nächste ausgewählte Seite</translation>
     </message>
     <message numerus="yes">
         <location filename="../core/settings/hotkeysmanager.cpp" line="102"/>
         <source>Jump %n pages forward</source>
         <comment>plurals for &quot;page&quot; may be used</comment>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>Springe %n Seite vorwärts</numerusform>
+            <numerusform>Springe %n Seiten vorwärts</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -2340,159 +2344,160 @@ und drücken Sie [Enter], um die Verknüpfung zu bearbeiten:</translation>
         <source>Jump %n pages backward</source>
         <comment>plurals for &quot;page&quot; may be used</comment>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>Springe %n Seite rückwärts</numerusform>
+            <numerusform>Springe %n Seiten rückwärts</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="108"/>
         <source>Change size of thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Größe der Vorschaubilder ändern</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="111"/>
         <source>Pages navigation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitennavigation</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="117"/>
         <source>Insert empty page before</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Leere Seite davor einfügen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="119"/>
         <source>Insert empty page after</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Leere Seite danach einfügen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="122"/>
         <source>Pages manipulation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitenmanipulation</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="129"/>
         <source>Change angle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Winkel ändern</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="131"/>
         <source>Change angle precisely</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Winkel präzise ändern</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="140"/>
         <source>Move content zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inhaltsbereich verschieben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="142"/>
         <source>Move along axes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Entlang der Achsen bewegen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="144"/>
         <source>Stretch or squeeze</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dehnen oder stauchen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="146"/>
         <source>Create zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich erstellen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="148"/>
         <location filename="../core/settings/hotkeysmanager.cpp" line="199"/>
         <source>Delete zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich löschen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="150"/>
         <source>Move zone up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich nach oben verschieben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="152"/>
         <source>Move zone down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich nach unten verschieben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="154"/>
         <source>Move zone left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich nach links verschieben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="156"/>
         <source>Move zone right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich nach rechts verschieben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="159"/>
         <source>Content selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inhaltsauswahl</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="166"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hineinzoomen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="168"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Herauszoomen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="170"/>
         <source>Display original image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Originalbild anzeigen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="172"/>
         <source>Move without constraints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bewegung ohne Vorgaben</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="174"/>
         <source>General page view</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gesamte Seitenansicht</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="181"/>
         <source>Create rectangle zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rechteckigen Bereich erstellen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="183"/>
         <source>Create ellipse zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elliptischen Bereich erstellen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="185"/>
         <source>Move zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich bewegen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="187"/>
         <source>Move zone vertically</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich vertikal bewegen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="189"/>
         <source>Move zone horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bereich horizontal bewegen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="191"/>
         <source>Paste from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einfügen aus Zwischenablage</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="193"/>
         <source>Clone last modified zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klonen der zuletzt geänderten Zone</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="200"/>
         <source>Cancel move or creation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verschiebung oder Erstellung abbrechen</translation>
     </message>
     <message>
         <location filename="../core/settings/hotkeysmanager.cpp" line="203"/>
